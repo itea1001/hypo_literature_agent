@@ -1,0 +1,41 @@
+{
+  "id": "YZoGmJrOS9",
+  "conference": "NEURIPS",
+  "title": "Can Custom Models Learn In-Context? An Exploration of Hybrid Architecture Performance on In-Context Learning Tasks",
+  "abstract": "In-Context Learning (ICL) is a phenomenon where task learning occurs through a prompt sequence without the necessity of parameter updates. ICL in Multi-Headed Attention (MHA) with absolute positional embedding has been the focus of more study than other sequence model varieties. We examine implications of architectural differences between GPT-2 and LLaMa as well as Llama and Mamba. We extend work done by Garg et al. (2022) and Park et al. (2024) to GPT-2/LLaMa hybrid and LLaMa/Mamba hybrid models -- examining the interplay between sequence transformation blocks and regressive performance in-context. We note that certain architectural changes cause degraded training efficiency/ICL accuracy by converging to suboptimal predictors or converging slower. We also find certain hybrids showing optimistic performance improvements, informing potential future ICL-focused architecture modifications. Additionally, we propose the \"ICL regression score\", a scalar metric describing a model's whole performance on a specific task. Compute limitations impose restrictions on our architecture-space, training duration, number of training runs, function class complexity, and benchmark complexity. To foster reproducible and extensible research, we provide a typed, modular, and extensible Python package on which we run all experiments. This code is available at \\url{https://github.com/anonymousforneurips64/neurips2024-submission21757}.",
+  "authors": [
+    "Ryan Campbell",
+    "Nelson Lojo",
+    "Kesava Viswanadha",
+    "Christoffer Gr\u00f8ndal Tryggestad",
+    "Derrick Sun",
+    "Sriteja Vijapurapu",
+    "August Rolfsen",
+    "Anant Sahai"
+  ],
+  "raw_authors": [
+    "Ryan Campbell",
+    "Nelson Lojo",
+    "Kesava Viswanadha",
+    "Christoffer Gr\u00f8ndal Tryggestad",
+    "Derrick Sun",
+    "Sriteja Vijapurapu",
+    "August Rolfsen",
+    "Anant Sahai"
+  ],
+  "keywords": [
+    "In Context Learning",
+    "Architecture",
+    "Hybrid Models",
+    "Transformers",
+    "Mamba",
+    "Attention",
+    "Toy Models",
+    "Benchmarking"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=YZoGmJrOS9",
+  "forum_url": "https://openreview.net/forum?id=YZoGmJrOS9",
+  "created_time": "2024-05-15T15:00:11.801000",
+  "modified_time": "2024-11-06T01:23:14.100000"
+}

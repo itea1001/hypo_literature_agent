@@ -1,0 +1,33 @@
+{
+  "id": "H9DYMIpz9c",
+  "conference": "ICLR",
+  "title": "Farzi Data: Autoregressive Data Distillation",
+  "abstract": "We study data distillation for auto-regressive machine learning tasks, where the input and output have a strict left-to-right causal structure. More specifically, we propose Farzi, which summarizes an event sequence dataset into a small number of synthetic sequences \u2014 Farzi Data \u2014 which are optimized to maintain (if not improve) model performance compared to training on the full dataset. Under the hood, FARZI conducts memory-efficient data distillation by (i) deriving efficient reverse-mode differentiation of the Adam optimizer by leveraging Hessian-Vector Products; and (ii) factorizing the high-dimensional discrete event-space into a latent-space which provably promotes implicit regularization. Empirically, for sequential recommendation and language modeling tasks, we are able to achieve 98 \u2212 120% of downstream full-data performance when training state-of-the-art models on Farzi Data of size as little as 0.1% of the original dataset. Notably, being able to train better models with significantly less data sheds light on the design of future large auto-regressive models, and opens up new opportunities to further scale up model and data sizes.",
+  "authors": [
+    "Noveen Sachdeva",
+    "Zexue He",
+    "Wang-Cheng Kang",
+    "Jianmo Ni",
+    "Derek Zhiyuan Cheng",
+    "Julian McAuley"
+  ],
+  "raw_authors": [
+    "Noveen Sachdeva",
+    "Zexue He",
+    "Wang-Cheng Kang",
+    "Jianmo Ni",
+    "Derek Zhiyuan Cheng",
+    "Julian McAuley"
+  ],
+  "keywords": [
+    "Data Distillation",
+    "Meta Learning",
+    "Recommender Systems",
+    "Language Modeling"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=H9DYMIpz9c",
+  "forum_url": "https://openreview.net/forum?id=H9DYMIpz9c",
+  "created_time": "2023-09-24T06:56:25.451000",
+  "modified_time": "2024-02-10T22:29:35.673000"
+}

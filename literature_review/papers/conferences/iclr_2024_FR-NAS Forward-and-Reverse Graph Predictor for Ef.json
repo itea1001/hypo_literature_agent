@@ -1,0 +1,24 @@
+{
+  "id": "fMX07g3prp",
+  "conference": "ICLR",
+  "title": "FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search",
+  "abstract": "Neural Architecture Search (NAS) has risen to prominence as a pivotal tool for identifying optimal configurations for deep neural networks suited to particular tasks. However, the process of training and assessing numerous architectures introduces considerable computational overhead. One approach to mitigate this is through performance predictors, which offer a means to estimate an architecture's potential without exhaustive training. Given that neural architectures fundamentally resemble directed acyclic graphs (DAGs), graph neural networks (GNNs) become an apparent choice for such predictive tasks. Nevertheless, the scarcity of training data can impact the precision of GNN-based predictors.\nTo address this, we introduce a novel GNN predictor for NAS. This predictor renders neural architectures into vector representations by combining both the conventional and inverse graph views. Additionally, we incorporate a tailored feature loss within the GNN predictor to ensure efficient utilization of both types of representations.\nWe subsequently assess our method's efficacy through experiments on benchmark datasets including NASBench-101, NASBench-201, and the DARTS search space, with a training data range of 50 to 400 samples. The results demonstrated a notable performance improvement, achieving an enhancement of 3\\%-16\\% in terms of prediction accuracy when compared to state-of-the-art GNN predictors across the board.\nThe source code will be made publicly available.",
+  "authors": [
+    "Haoming Zhang",
+    "Ran Cheng"
+  ],
+  "raw_authors": [
+    "Haoming Zhang",
+    "Ran Cheng"
+  ],
+  "keywords": [
+    "Neural Architecture Search",
+    "Performance Predictor",
+    "Graph Neural Network"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=fMX07g3prp",
+  "forum_url": "https://openreview.net/forum?id=fMX07g3prp",
+  "created_time": "2023-09-24T06:58:35.843000",
+  "modified_time": "2024-03-25T11:50:33.208000"
+}

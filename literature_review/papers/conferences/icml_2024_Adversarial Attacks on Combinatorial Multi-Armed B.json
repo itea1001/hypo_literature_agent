@@ -1,0 +1,28 @@
+{
+  "id": "0tPBk24xNj",
+  "conference": "ICML",
+  "title": "Adversarial Attacks on Combinatorial Multi-Armed Bandits",
+  "abstract": "We study reward poisoning attacks on Combinatorial Multi-armed Bandits (CMAB). We first provide a sufficient and necessary condition for the attackability of CMAB, a notion to capture the vulnerability and robustness of CMAB. The attackability condition depends on the intrinsic properties of the corresponding CMAB instance such as the reward distributions of super arms and outcome distributions of base arms. Additionally, we devise an attack algorithm for attackable CMAB instances. Contrary to prior understanding of multi-armed bandits, our work reveals a surprising fact that the attackability of a specific CMAB instance also depends on whether the bandit instance is known or unknown to the adversary. This finding indicates that adversarial attacks on CMAB are difficult in practice and a general attack strategy for any CMAB instance does not exist since the environment is mostly unknown to the adversary. We validate our theoretical findings via extensive experiments on real-world CMAB applications including probabilistic maximum covering problem, online minimum spanning tree, cascading bandits for online ranking, and online shortest path.",
+  "authors": [
+    "Rishab Balasubramanian",
+    "Jiawei Li",
+    "Prasad Tadepalli",
+    "Huazheng Wang",
+    "Qingyun Wu",
+    "Haoyu Zhao"
+  ],
+  "raw_authors": [
+    "Rishab Balasubramanian",
+    "Jiawei Li",
+    "Prasad Tadepalli",
+    "Huazheng Wang",
+    "Qingyun Wu",
+    "Haoyu Zhao"
+  ],
+  "keywords": [],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=0tPBk24xNj",
+  "forum_url": "https://openreview.net/forum?id=0tPBk24xNj",
+  "created_time": "2024-02-02T05:56:56.306000",
+  "modified_time": "2024-06-24T22:48:17.530000"
+}

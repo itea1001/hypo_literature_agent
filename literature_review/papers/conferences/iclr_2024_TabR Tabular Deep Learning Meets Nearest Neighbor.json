@@ -1,0 +1,34 @@
+{
+  "id": "rhgIgTSSxW",
+  "conference": "ICLR",
+  "title": "TabR: Tabular Deep Learning Meets Nearest Neighbors",
+  "abstract": "Deep learning (DL) models for tabular data problems (e.g. classification, regression) are currently receiving increasingly more attention from researchers.\nHowever, despite the recent efforts, the non-DL algorithms based on gradient-boosted decision trees (GBDT) remain a strong go-to solution for these problems.\nOne of the research directions aimed at improving the position of tabular DL involves designing so-called retrieval-augmented models.\nFor a target object, such models retrieve other objects (e.g. the nearest neighbors) from the available training data and use their features and labels to make a better prediction.\n\nIn this work, we present TabR -- essentially, a feed-forward network with a custom k-Nearest-Neighbors-like component in the middle.\nOn a set of public benchmarks with datasets up to several million objects, TabR marks a big step forward for tabular DL: it demonstrates the best average performance among tabular DL models, becomes the new state-of-the-art on several datasets, and even outperforms GBDT models on the recently proposed \"GBDT-friendly\" benchmark (see Figure 1).\nAmong the important findings and technical details powering TabR, the main ones lie in the attention-like mechanism that is responsible for retrieving the nearest neighbors and extracting valuable signal from them.\nIn addition to the higher performance, TabR is simple and significantly more efficient compared to prior retrieval-based tabular DL models.",
+  "authors": [
+    "Yury Gorishniy",
+    "Ivan Rubachev",
+    "Nikolay Kartashev",
+    "Daniil Shlenskii",
+    "Akim Kotelnikov",
+    "Artem Babenko"
+  ],
+  "raw_authors": [
+    "Yury Gorishniy",
+    "Ivan Rubachev",
+    "Nikolay Kartashev",
+    "Daniil Shlenskii",
+    "Akim Kotelnikov",
+    "Artem Babenko"
+  ],
+  "keywords": [
+    "tabular",
+    "tabular data",
+    "architecture",
+    "deep learning",
+    "neural networks"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=rhgIgTSSxW",
+  "forum_url": "https://openreview.net/forum?id=rhgIgTSSxW",
+  "created_time": "2023-09-24T07:32:12.991000",
+  "modified_time": "2024-04-20T23:02:54.575000"
+}

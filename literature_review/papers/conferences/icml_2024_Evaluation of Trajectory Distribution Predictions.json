@@ -1,0 +1,22 @@
+{
+  "id": "FCmWhJQ14I",
+  "conference": "ICML",
+  "title": "Evaluation of Trajectory Distribution Predictions with Energy Score",
+  "abstract": "Predicting the future trajectory of surrounding objects is inherently uncertain and vital in the safe and reliable planning of autonomous systems such as in self-driving cars. Although trajectory prediction models have become increasingly sophisticated in dealing with the complexities of spatiotemporal data, the evaluation methods used to assess these models have not kept pace. \"Minimum of N\" is a common family of metrics used to assess the rich outputs of such models. We critically examine the Minimum of N within the proper scoring rules framework to show that it is not strictly proper and demonstrate how that could lead to a misleading assessment of multimodal trajectory predictions. As an alternative, we propose using Energy Score-based evaluation measures, leveraging their proven propriety for a more reliable evaluation of trajectory distribution predictions.",
+  "authors": [
+    "Novin Shahroudi",
+    "Mihkel Lepson",
+    "Meelis Kull"
+  ],
+  "raw_authors": [
+    "Novin Shahroudi",
+    "Mihkel Lepson",
+    "Meelis Kull"
+  ],
+  "keywords": [],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=FCmWhJQ14I",
+  "forum_url": "https://openreview.net/forum?id=FCmWhJQ14I",
+  "created_time": "2024-02-02T05:58:04.991000",
+  "modified_time": "2024-06-24T22:48:17.652000"
+}

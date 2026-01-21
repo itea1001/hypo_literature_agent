@@ -1,0 +1,11 @@
+{
+  "arxiv_id": "2202.12826",
+  "title": "A Systematic Literature Review about Idea Mining: The Use of Machine-driven Analytics to Generate Ideas",
+  "abstract": "Idea generation is the core activity of innovation. Digital data sources, which are sources of innovation, such as patents, publications, social media, websites, etc., are increasingly growing at unprecedented volume. Manual idea generation is time-consuming and is affected by the subjectivity of the individuals involved. Therefore, the use machine-driven data analytics techniques to analyze data to generate ideas and support idea generation by serving users is useful. The objective of this study is to study state-of the-art machine-driven analytics for idea generation and data sources, hence the result of this study will generally server as a guideline for choosing techniques and data sources. A systematic literature review is conducted to identify relevant scholarly literature from IEEE, Scopus, Web of Science and Google Scholar. We selected a total of 71 articles and analyzed them thematically. The results of this study indicate that idea generation through machine-driven analytics applies text mining, information retrieval (IR), artificial intelligence (AI), deep learning, machine learning, statistical techniques, natural language processing (NLP), NLP-based morphological analysis, network analysis, and bibliometric to support idea generation. The results include a list of techniques and procedures in idea generation through machine-driven idea analytics. Additionally, characterization and heuristics used in idea generation are summarized. For the future, tools designed to generate ideas could be explored.",
+  "authors": [
+    "Workneh Y. Ayele",
+    "Gustaf Juell-Skielse"
+  ],
+  "pdf_url": "https://arxiv.org/pdf/2202.12826.pdf",
+  "arxiv_url": "https://arxiv.org/abs/2202.12826"
+}

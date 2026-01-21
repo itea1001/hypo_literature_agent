@@ -1,0 +1,27 @@
+{
+  "id": "BQvbL2sFQx",
+  "conference": "ICLR",
+  "title": "Model-Agnostic Shift-Equivariant Downsampling",
+  "abstract": "The performance of convolutional neural networks (CNNs) are thought to be insensitive to image shifts. However, recent studies have revealed that downsampling layers in CNNs result in inconsistent outputs for shifted input images. In this\nstudy, we present an approach for performing downsampling that ensures absolute shift equivariance. By employing model-agnostic downsampling method that leverages origin selection functions obtained from coordinate-independent statistics of the feature map, we can achieve perfect shift equivariance, while still adhering to the conventional downsampling procedures. Our method allows CNNs to exhibit both improved accuracy and perfect shift invariance for image classification, while also achieving shift equivariance in semantic segmentation benchmarks. Furthermore, we introduce a methodology for achieving shift equivariance without the need for any additional training process. This is accomplished by transferring pretrained weights and replacing existing layers with shift-equivariant\ncounterparts. Additionaly, we show that fine-tuning of the modified CNNs leads superior performance compared to previously proposed models.",
+  "authors": [
+    "Myungjoon Kim",
+    "Arthur Baucour",
+    "Jonghwa Shin"
+  ],
+  "raw_authors": [
+    "Myungjoon Kim",
+    "Arthur Baucour",
+    "Jonghwa Shin"
+  ],
+  "keywords": [
+    "Shift equivariance",
+    "Shift invariance",
+    "Downsampling",
+    "Convolutional neural networks"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=BQvbL2sFQx",
+  "forum_url": "https://openreview.net/forum?id=BQvbL2sFQx",
+  "created_time": "2023-09-24T06:47:17.170000",
+  "modified_time": "2024-02-10T22:29:35.447000"
+}

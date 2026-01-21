@@ -1,0 +1,28 @@
+{
+  "id": "SMZnJtkNX5",
+  "conference": "ICLR",
+  "title": "Temporal Parallelization for GPU Acceleration of Spiking Neural Networks",
+  "abstract": "Inspired by neurobiological structures, Spiking Neural Networks (SNNs) are heralded as a significant advancement in deep learning, given their potential for superior computational efficiency. However, this potential often remains untapped on contemporary hardware platforms. Specifically, when deployed on standard GPUs, SNNs tend to require extended computation times, placing them at a disadvantage compared to traditional Artificial Neural Networks (ANNs). Such inefficiencies have somehow diminished enthusiasm for SNN research and presented the tangible challenge to achieving scalability. To address such a challenge, this study introduces a temporal parallelization method specifically tailored for accelerating the propagation dynamics of SNNs on GPUs. Furthermore, we furnish two distinct implementations\\footnote{The source code will be made publicly available.} based on the CUDA and JAX frameworks respectively, ensuring adaptability across both single and multi-GPU setups. When benchmarked against several established SNN implementations, the empirical analysis confirmed the efficacy of our proposed method. Notably, with the Leaky Integrate-and-Fire model as a test case, the CUDA-based implementation achieved $5\\times$ to $40\\times$ acceleration on the A100 GPU.",
+  "authors": [
+    "Jiachun Li",
+    "Yanchen Li",
+    "Kebin Sun",
+    "Ran Cheng"
+  ],
+  "raw_authors": [
+    "Jiachun Li",
+    "Yanchen Li",
+    "Kebin Sun",
+    "Ran Cheng"
+  ],
+  "keywords": [
+    "Spiking neural networks",
+    "High-performance computing",
+    "GPU acceleration"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=SMZnJtkNX5",
+  "forum_url": "https://openreview.net/forum?id=SMZnJtkNX5",
+  "created_time": "2023-09-24T06:55:53.388000",
+  "modified_time": "2024-03-25T11:51:33.652000"
+}

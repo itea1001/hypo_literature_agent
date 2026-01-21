@@ -1,0 +1,31 @@
+{
+  "id": "NFqFA2vCQV",
+  "conference": "ICLR",
+  "title": "AdaptIP: Transferring Cross-modal Information to Temporal Modeling for Video-Language Representation Learning",
+  "abstract": "Driven by the data-centric AI paradigm, pre-trained image-text representations exhibit a subtle alignment of visual and textual concepts. In light of images being a subset of videos, recent work is dedicated to transferring pre-trained image-text representations into the video-language domain, attracting widespread attention. Nevertheless, these efforts employ training strategies such as full fine-tuning or post-pretraining, which do not necessarily constitute the most optimal approaches for transferring general pre-trained representations. In this paper, we resort to the increasingly popular parameter-efficient transfer learning (PETL) approach, proposing AdptIP, to adapt the pre-trained CLIP model into the field of video-language representation learning. AdaptIP devises a hierarchical cross-modal adaptation approach, focusing on intra-modal temporal modeling and inter-modal fine-grained alignment within the video-language domain. Additionally, the pre-trained CLIP backbone is frozen to maintain a common prior and ensure efficient model training. Comprehensive experiments on video-text retrieval, video question answering, and video captioning benchmarks highlight the versatility, superiority and efficiency of AdaptIP. Code will be available soon.",
+  "authors": [
+    "Yaowei Li",
+    "Hongxiang Li",
+    "Xuxin Cheng",
+    "Bang Yang",
+    "Zhihong Zhu",
+    "Yuexian Zou"
+  ],
+  "raw_authors": [
+    "Yaowei Li",
+    "Hongxiang Li",
+    "Xuxin Cheng",
+    "Bang Yang",
+    "Zhihong Zhu",
+    "Yuexian Zou"
+  ],
+  "keywords": [
+    "video-language representation learning",
+    "transfer learning"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=NFqFA2vCQV",
+  "forum_url": "https://openreview.net/forum?id=NFqFA2vCQV",
+  "created_time": "2023-09-24T06:48:00.113000",
+  "modified_time": "2024-03-25T11:51:53.986000"
+}

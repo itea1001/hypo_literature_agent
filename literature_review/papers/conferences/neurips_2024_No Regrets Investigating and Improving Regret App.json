@@ -1,0 +1,32 @@
+{
+  "id": "iEeiZlTbts",
+  "conference": "NEURIPS",
+  "title": "No Regrets: Investigating and Improving Regret Approximations for Curriculum Discovery",
+  "abstract": "What data or environments to use for training to improve downstream performance is a longstanding and very topical question in reinforcement learning. \nIn particular, Unsupervised Environment Design (UED) methods have gained recent attention as their adaptive curricula promise to enable agents to be robust to in- and out-of-distribution tasks.\nThis work investigates how existing UED methods select training environments, focusing on task prioritisation metrics.\nSurprisingly, despite methods aiming to maximise regret in theory, the practical approximations do not correlate with regret but with success rate.\nAs a result, a significant portion of an agent's experience comes from environments it has already mastered, offering little to no contribution toward enhancing its abilities. Put differently, current methods fail to predict intuitive measures of *learnability*. Specifically, they are unable to consistently identify those scenarios that the agent can sometimes solve, but not always.\nBased on our analysis, we develop a method that directly trains on scenarios with high learnability. This simple and intuitive approach outperforms existing UED methods in several binary-outcome environments, including the standard domain of Minigrid and a novel setting closely inspired by a real-world robotics problem. \nWe further introduce a new adversarial evaluation procedure for directly measuring robustness, closely mirroring the conditional value at risk (CVaR).\nWe open-source all our code and present visualisations of final policies here: https://github.com/amacrutherford/sampling-for-learnability.",
+  "authors": [
+    "Alexander Rutherford",
+    "Michael Beukman",
+    "Timon Willi",
+    "Bruno Lacerda",
+    "Nick Hawes",
+    "Jakob Nicolaus Foerster"
+  ],
+  "raw_authors": [
+    "Alexander Rutherford",
+    "Michael Beukman",
+    "Timon Willi",
+    "Bruno Lacerda",
+    "Nick Hawes",
+    "Jakob Nicolaus Foerster"
+  ],
+  "keywords": [
+    "MARL",
+    "UED",
+    "Robotics"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=iEeiZlTbts",
+  "forum_url": "https://openreview.net/forum?id=iEeiZlTbts",
+  "created_time": "2024-05-15T15:01:14.791000",
+  "modified_time": "2025-01-14T12:03:11.023000"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tBRNC6YemY",
+  "conference": "NEURIPS",
+  "title": "Gorilla: Large Language Model Connected with Massive APIs",
+  "abstract": "Large Language Models (LLMs) have seen an impressive wave of advances, with\nmodels now excelling in a variety of tasks, such as mathematical reasoning and\nprogram synthesis. However, their potential to effectively use tools via API calls\nremains unfulfilled. This is a challenging task even for today\u2019s state-of-the-art\nLLMs such as GPT-4 largely due to their unawareness of what APIs are available\nand how to use them in a frequently updated tool set. We develop Gorilla, a\nfinetuned LLaMA model that surpasses the performance of GPT-4 on writing API\ncalls. Trained with the novel Retriever Aware Training (RAT), when combined\nwith a document retriever, Gorilla demonstrates a strong capability to adapt to\ntest-time document changes, allowing flexible user updates or version changes.\nIt also substantially mitigates the issue of hallucination, commonly encountered\nwhen prompting LLMs directly. To evaluate the model\u2019s ability, we introduce\nAPIBench, a comprehensive dataset consisting of HuggingFace, TorchHub, and\nTensorHub APIs. The successful integration of the retrieval system with Gorilla\ndemonstrates the potential for LLMs to use tools more accurately, keep up with\nfrequently updated documentation, and consequently increase the reliability and\napplicability of their outputs. Gorilla\u2019s code, model, data, and demo are available\nat: https://gorilla.cs.berkeley.edu",
+  "authors": [
+    "Shishir G Patil",
+    "Tianjun Zhang",
+    "Xin Wang",
+    "Joseph E. Gonzalez"
+  ],
+  "raw_authors": [
+    "Shishir G Patil",
+    "Tianjun Zhang",
+    "Xin Wang",
+    "Joseph E. Gonzalez"
+  ],
+  "keywords": [
+    "LLM",
+    "Tool Use",
+    "APIs",
+    "Function Calling"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=tBRNC6YemY",
+  "forum_url": "https://openreview.net/forum?id=tBRNC6YemY",
+  "created_time": "2024-05-15T14:48:13.278000",
+  "modified_time": "2024-11-06T00:20:06.214000"
+}

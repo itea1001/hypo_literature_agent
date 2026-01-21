@@ -1,0 +1,33 @@
+{
+  "id": "u1b1dJtyxc",
+  "conference": "NEURIPS",
+  "title": "What Are Large Language Models Mapping to in the Brain? A Case Against Over-Reliance on Brain Scores",
+  "abstract": "Given the remarkable capabilities of large language models (LLMs), there has been a growing interest in evaluating their similarity to the human brain. One approach towards quantifying this similarity is by measuring how well a model predicts neural signals, also called \"brain score\". Internal representations from LLMs achieve state-of-the-art brain scores, leading to speculation that they share computational principles with human language processing. This inference is only valid if the subset of neural activity predicted by LLMs reflects core elements of language processing. Here, we question this assumption by analyzing three neural datasets used in an impactful study on LLM-to-brain mappings, with a particular focus on an fMRI dataset where participants read short passages. We first find that when using shuffled train-test splits, as done in previous studies with these datasets, a trivial feature that encodes temporal autocorrelation not only outperforms LLMs but also accounts for the majority of neural variance that LLMs explain. We therefore caution against shuffled train-test splits, and use contiguous test splits moving forward. Second, we explain the surprising result that untrained LLMs have higher-than-expected brain scores by showing they do not account for additional neural variance beyond two simple features: sentence length and sentence position. This undermines evidence used to claim that the transformer architecture biases computations to be more brain-like. Third, we find that brain scores of trained LLMs on this dataset can largely be explained by sentence position, sentence length, and static word vectors; a small, additional amount is explained by sense-specific word embeddings and contextual representations of sentence structure. We conclude that over-reliance on brain scores can lead to over-interpretation of similarity between LLMs and brains, and emphasize the importance of deconstructing what LLMs are mapping to in neural signals.",
+  "authors": [
+    "Ebrahim Feghhi",
+    "Nima Ryan Hadidi",
+    "Bryan Song",
+    "Idan Asher Blank",
+    "Jonathan Kao"
+  ],
+  "raw_authors": [
+    "Ebrahim Feghhi",
+    "Nima Ryan Hadidi",
+    "Bryan Song",
+    "Idan Asher Blank",
+    "Jonathan Kao"
+  ],
+  "keywords": [
+    "Large language models",
+    "Neuroscience",
+    "Neural encoding",
+    "fMRI",
+    "Replication",
+    "Language"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=u1b1dJtyxc",
+  "forum_url": "https://openreview.net/forum?id=u1b1dJtyxc",
+  "created_time": "2024-05-15T14:45:42.046000",
+  "modified_time": "2024-11-06T01:22:40.183000"
+}

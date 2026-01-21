@@ -1,0 +1,30 @@
+{
+  "id": "6AtXCnHCFy",
+  "conference": "ICLR",
+  "title": "FSN: Feature Shift Network for Load-Domain Domain Generalization",
+  "abstract": "Conventional deep learning methods for fault detection often assume that the training and the testing sets share the same fault pattern spaces and domain spaces. However, some fault patterns are rare, and many real-world faults have not appeared in the training set. As a result, it\u2019s hard for the trained model to achieve desirable performance on the testing set. \nIn this paper, we introduce a novel domain generalization, Load-Domain (LD) domain generalization, which is based on the analysis of the CWRU bearing dataset and its domain division method. For this scenario, we propose a feature shift model called FSN (Feature Shift Network). In the bearing dataset, domains are divided based on different operating conditions which have specific loads, so it\u2019s equivalent to load-based domain division. Moreover, the domain label corresponds to the actual load magnitude, making it unique as it contains physical information, which can boost detection accuracy on unknown domain beyond the training set. According to the knowledge above , FSN is trained for feature shift on adjacent source domains, and finally shifts target domain features into adjacent source domain feature space to achieve the purpose of domain generalization.\nExtensive experiments on CWRU demonstrate that FSN is better than the existed models in the LD domain generalization case. Furthermore, we have another test on MNIST, which also shows FSN can achieve the best performance.",
+  "authors": [
+    "Heng Chen",
+    "Erkang Zhao",
+    "Lei Shi",
+    "Yuhui Zhou"
+  ],
+  "raw_authors": [
+    "Heng Chen",
+    "Erkang Zhao",
+    "Lei Shi",
+    "Yuhui Zhou"
+  ],
+  "keywords": [
+    "Fault diagnosis",
+    "Deep learning",
+    "CNN",
+    "Domain Generalization",
+    "Load-domain Domain Generalization"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=6AtXCnHCFy",
+  "forum_url": "https://openreview.net/forum?id=6AtXCnHCFy",
+  "created_time": "2023-09-24T06:53:20.291000",
+  "modified_time": "2024-03-25T11:53:03.529000"
+}

@@ -1,0 +1,11 @@
+# PDFs are too large for git
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Cloned repos
+neurips_scraper/
+

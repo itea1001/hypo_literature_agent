@@ -1,0 +1,24 @@
+{
+  "id": "qBL04XXex6",
+  "conference": "ICLR",
+  "title": "Boosting of Thoughts: Trial-and-Error Problem Solving with Large Language Models",
+  "abstract": "The reasoning performance of Large Language Models (LLMs) on a wide range of problems critically relies on chain-of-thought prompting, which involves providing a few chain of thought demonstrations as exemplars in prompts. Recent work, e.g., Tree of Thoughts, has pointed out the importance of exploration and self-evaluation in reasoning step selection for complex problem solving. In this paper, we present Boosting of Thoughts (BoT), an automated prompting framework for problem solving with LLMs by iteratively exploring and self-evaluating many trees of thoughts in order to acquire an ensemble of trial-and-error reasoning experiences, which will serve as a new form of prompting to solve the complex problem. Starting from a simple prompt without requiring examples, BoT iteratively explores and evaluates a large collection of reasoning steps, and more importantly, uses error analysis obtained from the LLM on them to explicitly revise prompting, which in turn enhances reasoning step generation, until a final answer is attained. Our experiments with GPT-4 and Llama2 across extensive complex mathematical problems demonstrate that BoT consistently achieves higher or comparable problem-solving rates than other advanced prompting approaches.",
+  "authors": [
+    "Sijia Chen",
+    "Baochun Li",
+    "Di Niu"
+  ],
+  "raw_authors": [
+    "Sijia Chen",
+    "Baochun Li",
+    "Di Niu"
+  ],
+  "keywords": [
+    "Large Language Models; Prompt Engineering; Boosting Mechanism;"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=qBL04XXex6",
+  "forum_url": "https://openreview.net/forum?id=qBL04XXex6",
+  "created_time": "2023-09-24T06:58:20.801000",
+  "modified_time": "2024-03-15T20:05:13.404000"
+}

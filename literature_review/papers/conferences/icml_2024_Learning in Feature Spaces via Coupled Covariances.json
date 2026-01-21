@@ -1,0 +1,28 @@
+{
+  "id": "Gp0xZDmrA2",
+  "conference": "ICML",
+  "title": "Learning in Feature Spaces via Coupled Covariances: Asymmetric Kernel SVD and Nystr\u00f6m method",
+  "abstract": "In contrast with Mercer kernel-based approaches as used e.g. in Kernel Principal Component Analysis (KPCA), it was previously shown that Singular Value Decomposition (SVD) inherently relates to asymmetric kernels and Asymmetric Kernel Singular Value Decomposition (KSVD) has been proposed. However, the existing formulation to KSVD cannot work with infinite-dimensional feature mappings, the variational objective can be unbounded, and needs further numerical evaluation and exploration towards machine learning. In this work, i) we introduce a new asymmetric learning paradigm based on coupled covariance eigenproblem (CCE) through covariance operators, allowing infinite-dimensional feature maps. The solution to CCE is ultimately obtained from the SVD of the induced asymmetric kernel matrix, providing links to KSVD. ii) Starting from the integral equations corresponding to a pair of coupled adjoint eigenfunctions, we formalize the asymmetric Nystr\u00f6m method through a finite sample approximation to speed up training. iii) We provide the first empirical evaluations verifying the practical utility and benefits of KSVD and compare with methods resorting to symmetrization or linear SVD across multiple tasks.",
+  "authors": [
+    "Qinghua Tao",
+    "Francesco Tonin",
+    "Alex Lambert",
+    "Yingyi Chen",
+    "Panagiotis Patrinos",
+    "Johan Suykens"
+  ],
+  "raw_authors": [
+    "Qinghua Tao",
+    "Francesco Tonin",
+    "Alex Lambert",
+    "Yingyi Chen",
+    "Panagiotis Patrinos",
+    "Johan Suykens"
+  ],
+  "keywords": [],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=Gp0xZDmrA2",
+  "forum_url": "https://openreview.net/forum?id=Gp0xZDmrA2",
+  "created_time": "2024-02-02T05:56:34.790000",
+  "modified_time": "2024-06-24T22:48:17.469000"
+}

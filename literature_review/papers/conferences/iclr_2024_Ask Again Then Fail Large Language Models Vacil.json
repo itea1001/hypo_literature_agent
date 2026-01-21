@@ -1,0 +1,32 @@
+{
+  "id": "9ceadCJY4B",
+  "conference": "ICLR",
+  "title": "Ask Again, Then Fail: Large Language Models\u2019 Vacillations in Judgement",
+  "abstract": "With the emergence of generative conversational large language models (LLMs) like ChatGPT, serving as virtual assistants in various fields, the stability and reliability of their responses have become crucial. However, during usage, it has been observed that these models tend to waver in their judgements when confronted with follow-up questions from users expressing skepticism or disagreement. In this work, we draw inspiration from questioning strategies in education and propose a \\textsc{Follow-up Questioning Mechanism} along with two evaluation metrics to assess the judgement consistency of LLMs before and after exposure to disturbances. We evaluate the judgement consistency of ChatGPT, PaLM2-Bison, and Vicuna-13B under this mechanism across eight reasoning benchmarks. Empirical results show that even when the initial answers are correct, judgement consistency sharply decreases when LLMs face disturbances such as questioning, negation, or misleading. Additionally, we study these models' judgement consistency under various settings (sampling temperature and prompts) to validate this issue further, observing the impact of prompt tone and conducting an in-depth error analysis for deeper behavioral insights. Furthermore, we also explore several prompting methods to mitigate this issue and demonstrate their effectiveness.",
+  "authors": [
+    "Qiming Xie",
+    "Zengzhi Wang",
+    "Yi Feng",
+    "Rui Xia"
+  ],
+  "raw_authors": [
+    "Qiming Xie",
+    "Zengzhi Wang",
+    "Yi Feng",
+    "Rui Xia"
+  ],
+  "keywords": [
+    "Large Language Models",
+    "Uncertainty",
+    "Evaluation",
+    "In-Context Learning",
+    "Alignment",
+    "Multi-round dialogue",
+    "Robustness"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=9ceadCJY4B",
+  "forum_url": "https://openreview.net/forum?id=9ceadCJY4B",
+  "created_time": "2023-09-24T06:52:39.223000",
+  "modified_time": "2024-02-10T22:29:35.573000"
+}

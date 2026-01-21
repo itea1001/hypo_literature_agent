@@ -1,0 +1,29 @@
+{
+  "id": "m5dyKArVn8",
+  "conference": "NEURIPS",
+  "title": "How many classifiers do we need?",
+  "abstract": "As performance gains through scaling data and/or model size experience diminishing returns, it is becoming increasingly popular to turn to ensembling, where the predictions of multiple models are combined to improve accuracy. \nIn this paper, we provide a detailed analysis of how the disagreement and the polarization (a notion we introduce and define in this paper) among classifiers relate to the performance gain achieved by aggregating individual classifiers, for majority vote strategies in classification tasks.\nWe address these questions in the following ways. \n(1) An upper bound for polarization is derived, and we propose what we call a neural polarization law: most interpolating neural network models are 4/3-polarized. Our empirical results not only support this conjecture but also show that polarization is nearly constant for a dataset, regardless of hyperparameters or architectures of classifiers. \n(2) The error rate of the majority vote classifier is considered under restricted entropy conditions, and we present a tight upper bound that indicates that the disagreement is linearly correlated with the error rate, and that the slope is linear in the polarization.\n(3) We prove results for the asymptotic behavior of the disagreement in terms of the number of classifiers, which we show can help in predicting the performance for a larger number of classifiers from that of a smaller number. \nOur theoretical findings are supported by empirical results on several image classification tasks with various types of neural networks.",
+  "authors": [
+    "Hyunsuk Kim",
+    "Liam Hodgkinson",
+    "Ryan Theisen",
+    "Michael W. Mahoney"
+  ],
+  "raw_authors": [
+    "Hyunsuk Kim",
+    "Liam Hodgkinson",
+    "Ryan Theisen",
+    "Michael W. Mahoney"
+  ],
+  "keywords": [
+    "ensemble",
+    "model aggregation",
+    "machine learning",
+    "computer vision"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=m5dyKArVn8",
+  "forum_url": "https://openreview.net/forum?id=m5dyKArVn8",
+  "created_time": "2024-05-15T14:55:05.572000",
+  "modified_time": "2025-01-15T11:44:16.918000"
+}

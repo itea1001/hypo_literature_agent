@@ -1,0 +1,27 @@
+{
+  "id": "miGpIhquyB",
+  "conference": "ICLR",
+  "title": "Understanding Large Language Models Through the Lens of Dataset Generation",
+  "abstract": "There has been increased interest in using Large Language Models (LLMs) for text dataset generation subject to a desired attribute, e.g., for use in downstream fine-tuning or training. These works generally focus on a single quality metric of the generated text, typically accuracy on a downstream task. However, this fails to consider whether the model even has the ability to faithfully model the data distribution of the desired real-world domain. In contrast, in this work, we additionally focus on important distributional metrics agnostic to the downstream task, such as data diversity and faithfulness. We show that even in simple domains, generated datasets reveal inherent trade-offs between these metrics across models and training regimes. Further, we find that our metrics not only describe the generated dataset, but also capture key aspects of the underlying model. This allows us to characterize the generated datasets, individual models and by comparison the properties of different model families and training paradigms. By focusing on sub-distributions well-represented in the training data of LLMs, we can, for example, show that popular instruction-tuning techniques strongly decrease the LLM\u2019s text generation abilities, with respect to distributional aspects like diversity.",
+  "authors": [
+    "Jasper Dekoninck",
+    "Marc Fischer",
+    "Luca Beurer-Kellner",
+    "Martin Vechev"
+  ],
+  "raw_authors": [
+    "Jasper Dekoninck",
+    "Marc Fischer",
+    "Luca Beurer-Kellner",
+    "Martin Vechev"
+  ],
+  "keywords": [
+    "Large Language Model",
+    "dataset generation"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=miGpIhquyB",
+  "forum_url": "https://openreview.net/forum?id=miGpIhquyB",
+  "created_time": "2023-09-24T06:56:14.348000",
+  "modified_time": "2024-02-10T22:29:35.586000"
+}

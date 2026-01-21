@@ -1,0 +1,33 @@
+{
+  "id": "te6VagJf6G",
+  "conference": "NEURIPS",
+  "title": "Learning to Reason via Program Generation, Emulation, and Search",
+  "abstract": "Program synthesis with language models (LMs) has unlocked a large set of reasoning abilities; code-tuned LMs have proven adept at generating programs that solve a wide variety of algorithmic symbolic manipulation tasks (e.g. word concatenation). However, not all reasoning tasks are easily expressible as code, e.g. tasks involving commonsense reasoning, moral decision-making, and sarcasm understanding. Our goal is to extend a LM\u2019s program synthesis skills to such tasks and evaluate the results via pseudo-programs, namely Python programs where some leaf function calls are left undefined. To that end, we propose, Code Generation and Emulated EXecution (COGEX). COGEX works by (1) training LMs to generate pseudo-programs and (2) teaching them to emulate their generated program\u2019s execution, including those leaf functions, allowing the LM\u2019s knowledge to fill in the execution gaps; and (3) using them to search over many programs to find an optimal one. To adapt the COGEX model to a new task, we introduce a method for performing program search to find a single program whose pseudo-execution yields optimal performance when applied to all the instances of a given dataset. We show that our approach yields large improvements compared to standard in-context learning approaches on a battery of tasks, both algorithmic and soft reasoning. This result thus demonstrates that code synthesis can be applied to a much broader class of problems than previously considered.",
+  "authors": [
+    "Nathaniel Weir",
+    "Muhammad Khalifa",
+    "Linlu Qiu",
+    "Orion Weller",
+    "Peter Clark"
+  ],
+  "raw_authors": [
+    "Nathaniel Weir",
+    "Muhammad Khalifa",
+    "Linlu Qiu",
+    "Orion Weller",
+    "Peter Clark"
+  ],
+  "keywords": [
+    "language models",
+    "instruction tuning",
+    "code generation",
+    "reasoning",
+    "program search",
+    "program emulation"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=te6VagJf6G",
+  "forum_url": "https://openreview.net/forum?id=te6VagJf6G",
+  "created_time": "2024-05-15T14:54:53.137000",
+  "modified_time": "2024-11-06T00:20:06.535000"
+}

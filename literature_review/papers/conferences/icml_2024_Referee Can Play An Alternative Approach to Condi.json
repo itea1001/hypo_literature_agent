@@ -1,0 +1,26 @@
+{
+  "id": "hZ0fWhgVch",
+  "conference": "ICML",
+  "title": "Referee Can Play: An Alternative Approach to Conditional Generation via Model Inversion",
+  "abstract": "As a dominant force in text-to-image generation tasks, Diffusion Probabilistic Models (DPMs) face a critical challenge in controllability, struggling to adhere strictly to complex, multi-faceted instructions. In this work, we aim to address this alignment challenge for conditional generation tasks. First, we provide an alternative view of state-of-the-art DPMs as a way of inverting advanced Vision-Language Models (VLMs). With this formulation, we naturally propose a training-free approach that bypasses the conventional sampling process associated with DPMs. By directly optimizing images with the supervision of discriminative VLMs, the proposed method can potentially achieve a better text-image alignment. As proof of concept, we demonstrate the pipeline with the pre-trained BLIP-2 model and identify several key designs for improved image generation. To further enhance the image fidelity, a Score Distillation Sampling module of Stable Diffusion is incorporated. By carefully balancing the two components during optimization, our method can produce high-quality images with near state-of-the-art performance on T2I-Compbench. The code is available at https://github.com/Pepper-lll/VLMinv.",
+  "authors": [
+    "Xuantong LIU",
+    "Tianyang Hu",
+    "Wenjia Wang",
+    "Kenji Kawaguchi",
+    "Yuan Yao"
+  ],
+  "raw_authors": [
+    "Xuantong LIU",
+    "Tianyang Hu",
+    "Wenjia Wang",
+    "Kenji Kawaguchi",
+    "Yuan Yao"
+  ],
+  "keywords": [],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=hZ0fWhgVch",
+  "forum_url": "https://openreview.net/forum?id=hZ0fWhgVch",
+  "created_time": "2024-02-02T05:57:35.614000",
+  "modified_time": "2024-06-24T22:48:17.582000"
+}

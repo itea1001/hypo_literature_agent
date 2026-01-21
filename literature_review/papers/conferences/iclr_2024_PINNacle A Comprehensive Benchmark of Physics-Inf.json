@@ -1,0 +1,42 @@
+{
+  "id": "ApjY32f3Xr",
+  "conference": "ICLR",
+  "title": "PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs",
+  "abstract": "While significant progress has been made on Physics-Informed Neural Networks (PINNs), a comprehensive comparison of these methods across a wide range of Partial Differential Equations (PDEs) is still lacking. This study introduces PINNacle, a benchmarking tool designed to fill this gap. PINNacle provides a diverse dataset, comprising over 20 distinct PDEs from various domains including heat conduction, fluid dynamics, biology, and electromagnetics. These PDEs encapsulate key challenges inherent to real-world problems, such as complex geometry, multi-scale phenomena, nonlinearity, and high dimensionality. PINNacle also offers a user-friendly toolbox, incorporating about 10 state-of-the-art PINN methods for systematic evaluation and comparison. We have conducted extensive experiments with these methods, offering insights into their strengths and weaknesses. In addition to providing a standardized means of assessing performance, PINNacle also offers an in-depth analysis to guide future research, particularly in areas such as domain decomposition methods and loss reweighting for handling multi-scale problems and complex geometry. While PINNacle does not guarantee success in all real-world scenarios, it represents a significant contribution to the field by offering a robust, diverse, and comprehensive benchmark suite that will undoubtedly foster further research and development in PINNs.",
+  "authors": [
+    "Zhongkai Hao",
+    "Jiachen Yao",
+    "Chang Su",
+    "Hang Su",
+    "Ziao Wang",
+    "Fanzhi Lu",
+    "Zeyu Xia",
+    "Yichi Zhang",
+    "Songming Liu",
+    "Lu Lu",
+    "Jun Zhu"
+  ],
+  "raw_authors": [
+    "Zhongkai Hao",
+    "Jiachen Yao",
+    "Chang Su",
+    "Hang Su",
+    "Ziao Wang",
+    "Fanzhi Lu",
+    "Zeyu Xia",
+    "Yichi Zhang",
+    "Songming Liu",
+    "Lu Lu",
+    "Jun Zhu"
+  ],
+  "keywords": [
+    "PINN",
+    "machine learning",
+    "physics-informed machine learning"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=ApjY32f3Xr",
+  "forum_url": "https://openreview.net/forum?id=ApjY32f3Xr",
+  "created_time": "2023-09-24T07:10:13.894000",
+  "modified_time": "2024-02-10T22:29:35.716000"
+}

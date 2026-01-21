@@ -1,0 +1,32 @@
+{
+  "id": "eR4W9tnJoZ",
+  "conference": "ICLR",
+  "title": "Visuo-emotional perception and Human Cognition to engineer content-generation using Generative AI",
+  "abstract": "Media platforms compete for users\u2019 attention. Their reach crucially depends on algorithmic real-time bidding and efficiency of hyper-personalized, rapidly generated, and user-optimized content. Attention is, although, a scare and fleeting quantity, often awarded less than 1 second per stimulus. Thus, the current strategy is to rely on the vast amount of user-generated data to mimic the content to the user. The underlying assumption is that this is sufficient incentive for attention. This strategy has evidently failed. As witnessed by the alarmingly low or short-lived successes of campaigns in recent times. This mismatch is exacerbated because most content consumed today is digital. Whereas strategies for digital content mimic our past understanding from mass-media. Hence, we formalize a new understanding of communication, specifically for the digital mediums. We prove that the digital medium needs a new understanding of communication protocols. To that end, we take a first principles approach to the new communication protocol: the neurological representations of communication, specifically, where the communication happens in less than 1 second per stimulus. First, we break down and elaborate on this neurological representation of decision-making. Next, we proffer use of our behavioural communication model for generation and optimization of content creatives. To that end, we elaborate methods for rapid, AI-generation content, increasing the efficiency of visual communication on digital media. Within this exploration we include themes of Hyperpersonalization and Search-engine optimization. Thus, we find that strategically produced content exhibits stronger associations to users\u2019 nonconscious needs, wants and goals, which elicits user attention and content-diversity significantly.",
+  "authors": [
+    "Tanya Upadhyay",
+    "Jieya Rawal",
+    "Kirtana Sunil Phatnani",
+    "Biju Joseph Dominic"
+  ],
+  "raw_authors": [
+    "Tanya Upadhyay",
+    "Jieya Rawal",
+    "Kirtana Sunil Phatnani",
+    "Biju Joseph Dominic"
+  ],
+  "keywords": [
+    "creative content",
+    "digital creatives",
+    "attention",
+    "personalization",
+    "content optimization",
+    "content generation",
+    "generative AI"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=eR4W9tnJoZ",
+  "forum_url": "https://openreview.net/forum?id=eR4W9tnJoZ",
+  "created_time": "2023-09-24T06:47:10.321000",
+  "modified_time": "2024-02-10T22:29:35.451000"
+}

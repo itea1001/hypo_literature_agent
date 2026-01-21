@@ -1,0 +1,31 @@
+{
+  "id": "eHzIwAhj06",
+  "conference": "NEURIPS",
+  "title": "The Group Robustness is in the Details: Revisiting Finetuning under Spurious Correlations",
+  "abstract": "Modern machine learning models are prone to over-reliance on spurious correlations, which can often lead to poor performance on minority groups. In this paper, we identify surprising and nuanced behavior of finetuned models on worst-group accuracy via comprehensive experiments on four well-established benchmarks across vision and language tasks. We first show that the commonly used class-balancing techniques of mini-batch upsampling and loss upweighting can induce a decrease in worst-group accuracy (WGA) with training epochs, leading to performance no better than without class-balancing. While in some scenarios, removing data to create a class-balanced subset is more effective, we show this depends on group structure and propose a mixture method which can outperform both techniques. Next, we show that scaling pretrained models is generally beneficial for worst-group accuracy, but only in conjunction with appropriate class-balancing. Finally, we identify spectral imbalance in finetuning features as a potential source of group disparities --- minority group covariance matrices incur a larger spectral norm than majority groups once conditioned on the classes. Our results show more nuanced interactions of modern finetuned models with group robustness than was previously known. Our code is available at https://github.com/tmlabonte/revisiting-finetuning.",
+  "authors": [
+    "Tyler LaBonte",
+    "John Collins Hill",
+    "Xinchen zhang",
+    "Vidya Muthukumar",
+    "Abhishek Kumar"
+  ],
+  "raw_authors": [
+    "Tyler LaBonte",
+    "John Collins Hill",
+    "Xinchen zhang",
+    "Vidya Muthukumar",
+    "Abhishek Kumar"
+  ],
+  "keywords": [
+    "spurious correlations",
+    "group robustness",
+    "distribution shift",
+    "class balancing"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=eHzIwAhj06",
+  "forum_url": "https://openreview.net/forum?id=eHzIwAhj06",
+  "created_time": "2024-05-15T14:51:50.312000",
+  "modified_time": "2024-11-06T00:20:06.355000"
+}

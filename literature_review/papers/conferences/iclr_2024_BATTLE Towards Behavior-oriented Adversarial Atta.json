@@ -1,0 +1,30 @@
+{
+  "id": "rp5vfyp5Np",
+  "conference": "ICLR",
+  "title": "BATTLE: Towards Behavior-oriented Adversarial Attacks against Deep Reinforcement Learning",
+  "abstract": "Evaluating the performance of deep reinforcement learning (DRL) agents under adversarial attacks that aim to induce specific behaviors, i.e., behavior-oriented adversarial attacks, is crucial for understanding the robustness of DRL agents. Prior research primarily focuses on directing agents towards pre-determined states or policies, lacking generality and flexibility. Therefore, it is important to devise universal attacks that target inducing specific behaviors in a victim. In this work, we propose BATTLE, a universal behavior-oriented adversarial attack method. In BATTLE, an intention policy is trained to align with human preferences for flexible behavior orientation, while the adversary is trained to guide the victim policy to imitate the intention policy. To improve the attack performance, we introduce a weighting function that assigns importance weights over each state. Our empirical results over several manipulation tasks of Meta-world show the superiority of BATTLE in behavior-oriented adversarial attack settings, outperforming current adversarial attack algorithms. Furthermore, we also demonstrate that BATTLE can improve the robustness of agents under strong attacks by training with adversary. Lastly, we showcase the strong behavior-inducing capability of BATTLE by guiding Decision Transformer agents to act in line with human preferences across various MuJoCo tasks. Our videos are available in https://sites.google.com/view/jj9uxjgmba5lr3g.",
+  "authors": [
+    "Fengshuo Bai",
+    "Runze Liu",
+    "Yali Du",
+    "Ying Wen",
+    "Yaodong Yang"
+  ],
+  "raw_authors": [
+    "Fengshuo Bai",
+    "Runze Liu",
+    "Yali Du",
+    "Ying Wen",
+    "Yaodong Yang"
+  ],
+  "keywords": [
+    "deep reinforcement learning",
+    "preference-based reinforcement learning",
+    "adversarial reinforcement learning"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=rp5vfyp5Np",
+  "forum_url": "https://openreview.net/forum?id=rp5vfyp5Np",
+  "created_time": "2023-09-24T06:56:21.855000",
+  "modified_time": "2024-02-10T22:29:35.623000"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "MhWaMOkoN3",
+  "conference": "NEURIPS",
+  "title": "Universality in Transfer Learning for Linear Models",
+  "abstract": "We study the problem of transfer learning and fine-tuning in linear models for both regression and binary classification. In particular, we consider the use of stochastic gradient descent (SGD) on a linear model initialized with pretrained weights and using a small training data set from the target distribution. In the asymptotic regime of large models, we provide an exact and rigorous analysis and relate the generalization errors (in regression) and classification errors (in binary classification) for the pretrained and fine-tuned models. In particular, we give conditions under which the fine-tuned model outperforms the pretrained one. An important aspect of our work is that all the results are \"universal\", in the sense that they depend only on the first and second order statistics of the target distribution. They thus extend well beyond the standard Gaussian assumptions commonly made in the literature. Furthermore, our universality results extend beyond standard SGD training to the test error of a classification task trained using ridge regression.",
+  "authors": [
+    "Reza Ghane",
+    "Danil Akhtiamov",
+    "Babak Hassibi"
+  ],
+  "raw_authors": [
+    "Reza Ghane",
+    "Danil Akhtiamov",
+    "Babak Hassibi"
+  ],
+  "keywords": [
+    "Gaussian Universality",
+    "Transfer Learning",
+    "Linear Regression",
+    "Binary Classification"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=MhWaMOkoN3",
+  "forum_url": "https://openreview.net/forum?id=MhWaMOkoN3",
+  "created_time": "2024-05-15T14:48:52.654000",
+  "modified_time": "2025-01-14T22:12:28.912000"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "10eQ4Cfh8p",
+  "conference": "ICLR",
+  "title": "SIMULTANEOUS GENERATION AND IMPROVEMENT: A UNIFIED RL PARADIGM FOR FJSP OPTIMIZATION",
+  "abstract": "We present an end-to-end reinforcement learning framework designed to address the Flexible Job Shop Problem (FJSP). Our approach consists of two primary components: a generative model that produces problem solutions stepwise, and a secondary model that continually refines these (partial) solutions. Importantly, we train both models concurrently, enabling each to be cognizant of the other's policy and make informed decisions. Extensive experimentation demonstrates that our model delivers better performance in shorter time on several public datasets comparing to baseline algorithms. Furthermore, we highlight the superior generalizability of our approach, as it maintains strong performance on large-scale instances even when trained on small-scale instances. It is worth noting that this training paradigm can be readily adapted to other combinatorial optimization problems, such as the traveling salesman problemand beyond.",
+  "authors": [
+    "Hongyi Zhou",
+    "Lei Song"
+  ],
+  "raw_authors": [
+    "Hongyi Zhou",
+    "Lei Song"
+  ],
+  "keywords": [
+    "Reinforcement Learning",
+    "Flexible Job Shop Schedule Problem",
+    "FJSP"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=10eQ4Cfh8p",
+  "forum_url": "https://openreview.net/forum?id=10eQ4Cfh8p",
+  "created_time": "2023-09-24T06:49:57.641000",
+  "modified_time": "2024-02-10T22:29:35.487000"
+}

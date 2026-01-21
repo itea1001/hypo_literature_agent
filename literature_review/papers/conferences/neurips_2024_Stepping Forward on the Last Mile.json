@@ -1,0 +1,33 @@
+{
+  "id": "yCh1z6Dcto",
+  "conference": "NEURIPS",
+  "title": "Stepping Forward on the Last Mile",
+  "abstract": "Continuously adapting pre-trained models to local data on resource constrained edge devices is the \\emph{last mile} for model deployment. However, as models increase in size and depth, backpropagation requires a large amount of memory, which becomes prohibitive for edge devices. In addition, most existing low power neural processing engines (e.g., NPUs, DSPs, MCUs, etc.) are designed as fixed-point inference accelerators, without training capabilities. Forward gradients, solely based on directional derivatives computed from two forward calls, have been recently used for model training, with substantial savings in computation and memory. However, the performance of quantized training with fixed-point forward gradients remains unclear. In this paper, we investigate the feasibility of on-device training using fixed-point forward gradients, by conducting comprehensive experiments across a variety of deep learning benchmark tasks in both vision and audio domains. We propose a series of algorithm enhancements that further reduce the memory footprint, and the accuracy gap compared to backpropagation. An empirical study on how training with forward gradients navigates in the loss landscape is further explored. Our results demonstrate that on the last mile of model customization on edge devices, training with fixed-point forward gradients is a feasible and practical approach.",
+  "authors": [
+    "Chen Feng",
+    "Shaojie Zhuo",
+    "Xiaopeng Zhang",
+    "Ramchalam Kinattinkara Ramakrishnan",
+    "Zhaocong Yuan",
+    "Andrew Zou Li"
+  ],
+  "raw_authors": [
+    "Chen Feng",
+    "Shaojie Zhuo",
+    "Xiaopeng Zhang",
+    "Ramchalam Kinattinkara Ramakrishnan",
+    "Zhaocong Yuan",
+    "Andrew Zou Li"
+  ],
+  "keywords": [
+    "On-device model adaptation",
+    "Fixed-point forward gradient learning",
+    "Low memory",
+    "Edge devices"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=yCh1z6Dcto",
+  "forum_url": "https://openreview.net/forum?id=yCh1z6Dcto",
+  "created_time": "2024-05-15T14:47:59.954000",
+  "modified_time": "2024-11-06T00:20:06.183000"
+}

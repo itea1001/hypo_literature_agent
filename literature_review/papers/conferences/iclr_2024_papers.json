@@ -1,0 +1,584 @@
+[
+  {
+    "id": "cXs5md5wAq",
+    "conference": "ICLR",
+    "title": "Modelling Microbial Communities with Graph Neural Networks",
+    "abstract": "Understanding the interactions and interplay of microorganisms is a great challenge with many applications in medical and environmental settings. In this work, we model bacterial communities directly from their genomes using graph neural networks (GNNs). GNNs leverage the inductive bias induced by the set nature of bacteria, enforcing permutation invariance and granting combinatorial generalization. We propose to learn the dynamics implicitly by directly predicting community relative abundance profiles at steady state, thus escaping the need for growth curves. On two real-world datasets, we show for the first time generalization to unseen bacteria and different community structures. \nTo investigate the prediction results more deeply, we created a simulation for flexible data generation and analyze effects of bacteria interaction strength, community size, and training data amount.",
+    "authors": [
+      "Albane Ruaud",
+      "Cansu Sancaktar",
+      "Marco Bagatella",
+      "Christoph Ratzke",
+      "Georg Martius"
+    ],
+    "raw_authors": [
+      "Albane Ruaud",
+      "Cansu Sancaktar",
+      "Marco Bagatella",
+      "Christoph Ratzke",
+      "Georg Martius"
+    ],
+    "keywords": [
+      "graph neural networks",
+      "microbial communities",
+      "microbiology",
+      "genomes"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=cXs5md5wAq",
+    "forum_url": "https://openreview.net/forum?id=cXs5md5wAq",
+    "created_time": "2023-09-24T07:37:19.827000",
+    "modified_time": "2024-02-10T22:29:35.793000"
+  },
+  {
+    "id": "rhgIgTSSxW",
+    "conference": "ICLR",
+    "title": "TabR: Tabular Deep Learning Meets Nearest Neighbors",
+    "abstract": "Deep learning (DL) models for tabular data problems (e.g. classification, regression) are currently receiving increasingly more attention from researchers.\nHowever, despite the recent efforts, the non-DL algorithms based on gradient-boosted decision trees (GBDT) remain a strong go-to solution for these problems.\nOne of the research directions aimed at improving the position of tabular DL involves designing so-called retrieval-augmented models.\nFor a target object, such models retrieve other objects (e.g. the nearest neighbors) from the available training data and use their features and labels to make a better prediction.\n\nIn this work, we present TabR -- essentially, a feed-forward network with a custom k-Nearest-Neighbors-like component in the middle.\nOn a set of public benchmarks with datasets up to several million objects, TabR marks a big step forward for tabular DL: it demonstrates the best average performance among tabular DL models, becomes the new state-of-the-art on several datasets, and even outperforms GBDT models on the recently proposed \"GBDT-friendly\" benchmark (see Figure 1).\nAmong the important findings and technical details powering TabR, the main ones lie in the attention-like mechanism that is responsible for retrieving the nearest neighbors and extracting valuable signal from them.\nIn addition to the higher performance, TabR is simple and significantly more efficient compared to prior retrieval-based tabular DL models.",
+    "authors": [
+      "Yury Gorishniy",
+      "Ivan Rubachev",
+      "Nikolay Kartashev",
+      "Daniil Shlenskii",
+      "Akim Kotelnikov",
+      "Artem Babenko"
+    ],
+    "raw_authors": [
+      "Yury Gorishniy",
+      "Ivan Rubachev",
+      "Nikolay Kartashev",
+      "Daniil Shlenskii",
+      "Akim Kotelnikov",
+      "Artem Babenko"
+    ],
+    "keywords": [
+      "tabular",
+      "tabular data",
+      "architecture",
+      "deep learning",
+      "neural networks"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=rhgIgTSSxW",
+    "forum_url": "https://openreview.net/forum?id=rhgIgTSSxW",
+    "created_time": "2023-09-24T07:32:12.991000",
+    "modified_time": "2024-04-20T23:02:54.575000"
+  },
+  {
+    "id": "kKRbAY4CXv",
+    "conference": "ICLR",
+    "title": "Neural Evolutionary Kernel Method: A Knowledge-Based Learning Architechture for Evolutionary PDEs",
+    "abstract": "Numerical solution of partial differential equations (PDEs) plays a vital role in various fields of science and engineering. In recent years, deep neural networks (DNNs) have emerged as a powerful tool for solving PDEs. DNN-based methods exploit the approximation capabilities of neural networks to obtain solutions to PDEs in general domains or high-dimensional spaces. However, many of these methods lack the use of mathematical prior knowledge, and DNN-based methods usually require a large number of sample points and parameters, making them computationally expensive and challenging to train. This paper aims to introduce a novel method named the Neural Evolutionary Kernel Method (NEKM) for solving a class of evolutionary PDEs through DNNs based kernels. By using operator splitting and boundary integral techniques, we propose particular neural network architectures which approximate evolutionary kernels of solutions and preserve structures of time-dependent PDEs. Mathematical prior knowledge are naturally built into these DNNs based kernels through convolutional representation with pre-trained Green functions, leading to serious reduction in the number of parameters in the NEKM and very efficient training processes. Experimental results demonstrate the efficiency and accuracy of the NEKM in solving heat equations and Allen-Cahn equations in complex domains and on manifolds, showcasing its promising potential for applications in data driven scientific computing.",
+    "authors": [
+      "Shuo Ling",
+      "Wenjun Ying",
+      "Zhen Zhang"
+    ],
+    "raw_authors": [
+      "Shuo Ling",
+      "Wenjun Ying",
+      "Zhen Zhang"
+    ],
+    "keywords": [
+      "Numerical PDE",
+      "structure preserving neural network",
+      "operator learning",
+      "boundary integral"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=kKRbAY4CXv",
+    "forum_url": "https://openreview.net/forum?id=kKRbAY4CXv",
+    "created_time": "2023-09-24T07:23:35.085000",
+    "modified_time": "2024-02-10T22:29:35.756000"
+  },
+  {
+    "id": "ApjY32f3Xr",
+    "conference": "ICLR",
+    "title": "PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs",
+    "abstract": "While significant progress has been made on Physics-Informed Neural Networks (PINNs), a comprehensive comparison of these methods across a wide range of Partial Differential Equations (PDEs) is still lacking. This study introduces PINNacle, a benchmarking tool designed to fill this gap. PINNacle provides a diverse dataset, comprising over 20 distinct PDEs from various domains including heat conduction, fluid dynamics, biology, and electromagnetics. These PDEs encapsulate key challenges inherent to real-world problems, such as complex geometry, multi-scale phenomena, nonlinearity, and high dimensionality. PINNacle also offers a user-friendly toolbox, incorporating about 10 state-of-the-art PINN methods for systematic evaluation and comparison. We have conducted extensive experiments with these methods, offering insights into their strengths and weaknesses. In addition to providing a standardized means of assessing performance, PINNacle also offers an in-depth analysis to guide future research, particularly in areas such as domain decomposition methods and loss reweighting for handling multi-scale problems and complex geometry. While PINNacle does not guarantee success in all real-world scenarios, it represents a significant contribution to the field by offering a robust, diverse, and comprehensive benchmark suite that will undoubtedly foster further research and development in PINNs.",
+    "authors": [
+      "Zhongkai Hao",
+      "Jiachen Yao",
+      "Chang Su",
+      "Hang Su",
+      "Ziao Wang",
+      "Fanzhi Lu",
+      "Zeyu Xia",
+      "Yichi Zhang",
+      "Songming Liu",
+      "Lu Lu",
+      "Jun Zhu"
+    ],
+    "raw_authors": [
+      "Zhongkai Hao",
+      "Jiachen Yao",
+      "Chang Su",
+      "Hang Su",
+      "Ziao Wang",
+      "Fanzhi Lu",
+      "Zeyu Xia",
+      "Yichi Zhang",
+      "Songming Liu",
+      "Lu Lu",
+      "Jun Zhu"
+    ],
+    "keywords": [
+      "PINN",
+      "machine learning",
+      "physics-informed machine learning"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=ApjY32f3Xr",
+    "forum_url": "https://openreview.net/forum?id=ApjY32f3Xr",
+    "created_time": "2023-09-24T07:10:13.894000",
+    "modified_time": "2024-02-10T22:29:35.716000"
+  },
+  {
+    "id": "eUgS9Ig8JG",
+    "conference": "ICLR",
+    "title": "SaNN: Simple Yet Powerful Simplicial-aware Neural Networks",
+    "abstract": "Simplicial neural networks (SNNs) are deep models for higher-order graph representation learning. SNNs learn low-dimensional embeddings of simplices in a simplicial complex by aggregating features of their respective upper, lower, boundary, and coboundary adjacent simplices. The aggregation in SNNs is carried out during training. Since the number of simplices of various orders in a simplicial complex is significantly large, the memory and training-time requirement in SNNs is enormous. In this work, we propose a scalable simplicial-aware neural network (SaNN) model with a constant run-time and memory requirements independent of the size of the simplicial complex and the density of interactions in it. SaNN is based on pre-aggregated simplicial-aware features as inputs to a neural network, so it has a strong simplicial-structural inductive bias. We provide theoretical conditions under which SaNN is provably more powerful than the Weisfeiler-Lehman (WL) graph isomorphism test and as powerful as the simplicial Weisfeiler-Lehman (SWL) test. We also show that SaNN is permutation and orientation equivariant and satisfies simplicial-awareness of the highest order in a simplicial complex. We demonstrate via numerical experiments that despite being computationally economical, the proposed model achieves state-of-the-art performance in predicting trajectories,  simplicial closures, and classifying graphs.",
+    "authors": [
+      "Sravanthi Gurugubelli",
+      "Sundeep Prabhakar Chepuri"
+    ],
+    "raw_authors": [
+      "Sravanthi Gurugubelli",
+      "Sundeep Prabhakar Chepuri"
+    ],
+    "keywords": [
+      "Graph Neural Networks",
+      "Higher-order Representation Learning",
+      "Simplicial Complexes",
+      "Simplicial Neural Networks",
+      "Weisfeiler-Lehman Isomorphism Test"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=eUgS9Ig8JG",
+    "forum_url": "https://openreview.net/forum?id=eUgS9Ig8JG",
+    "created_time": "2023-09-24T07:09:49.659000",
+    "modified_time": "2024-03-16T09:36:44.238000"
+  },
+  {
+    "id": "mnyXZBa5dP",
+    "conference": "ICLR",
+    "title": "Image Authenticity Detection using Eye Gazing Data:  A Performance Comparison Beyond Human Capabilities  via Attention Mechanism, ResNet, and Cascade  Strategies",
+    "abstract": "In the digital age, determining the authenticity of images has become \nincreasingly crucial. This study aims to explore the capability of machine \nlearning models in identifying manipulated images using eye movement data and \ncompares this with human judgment. We collected a series of both manipulated \nand unaltered images and conducted eye-tracking experiments on a set of \nparticipants. After data preprocessing, various machine learning models were \ntrained and validated, including a simple classifier, cascade-optimized classifier, \nand models integrating attention mechanisms with ResNet architectures. Results \nindicate that all models outperformed the baseline set by human judgment. \nSpecifically, the Attention-ResNet model achieved the highest accuracy at 0.685, \nmaking it the top-performing model. Our analysis delves further into the stability, \ngeneralization capabilities, and practical value of these models. Ultimately, this \nresearch underscores the immense potential of deep learning strategies in \nverifying image authenticity, providing valuable insights for future research and \napplications.",
+    "authors": [
+      "Ping Zhang"
+    ],
+    "raw_authors": [
+      "Ping Zhang"
+    ],
+    "keywords": [
+      "Image Manipulation Detection",
+      "Cascade Networks",
+      "Eye-tracking  Data",
+      "Model Stability"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=mnyXZBa5dP",
+    "forum_url": "https://openreview.net/forum?id=mnyXZBa5dP",
+    "created_time": "2023-09-24T07:05:35.790000",
+    "modified_time": "2024-03-25T12:05:09.623000"
+  },
+  {
+    "id": "fMX07g3prp",
+    "conference": "ICLR",
+    "title": "FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search",
+    "abstract": "Neural Architecture Search (NAS) has risen to prominence as a pivotal tool for identifying optimal configurations for deep neural networks suited to particular tasks. However, the process of training and assessing numerous architectures introduces considerable computational overhead. One approach to mitigate this is through performance predictors, which offer a means to estimate an architecture's potential without exhaustive training. Given that neural architectures fundamentally resemble directed acyclic graphs (DAGs), graph neural networks (GNNs) become an apparent choice for such predictive tasks. Nevertheless, the scarcity of training data can impact the precision of GNN-based predictors.\nTo address this, we introduce a novel GNN predictor for NAS. This predictor renders neural architectures into vector representations by combining both the conventional and inverse graph views. Additionally, we incorporate a tailored feature loss within the GNN predictor to ensure efficient utilization of both types of representations.\nWe subsequently assess our method's efficacy through experiments on benchmark datasets including NASBench-101, NASBench-201, and the DARTS search space, with a training data range of 50 to 400 samples. The results demonstrated a notable performance improvement, achieving an enhancement of 3\\%-16\\% in terms of prediction accuracy when compared to state-of-the-art GNN predictors across the board.\nThe source code will be made publicly available.",
+    "authors": [
+      "Haoming Zhang",
+      "Ran Cheng"
+    ],
+    "raw_authors": [
+      "Haoming Zhang",
+      "Ran Cheng"
+    ],
+    "keywords": [
+      "Neural Architecture Search",
+      "Performance Predictor",
+      "Graph Neural Network"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=fMX07g3prp",
+    "forum_url": "https://openreview.net/forum?id=fMX07g3prp",
+    "created_time": "2023-09-24T06:58:35.843000",
+    "modified_time": "2024-03-25T11:50:33.208000"
+  },
+  {
+    "id": "qBL04XXex6",
+    "conference": "ICLR",
+    "title": "Boosting of Thoughts: Trial-and-Error Problem Solving with Large Language Models",
+    "abstract": "The reasoning performance of Large Language Models (LLMs) on a wide range of problems critically relies on chain-of-thought prompting, which involves providing a few chain of thought demonstrations as exemplars in prompts. Recent work, e.g., Tree of Thoughts, has pointed out the importance of exploration and self-evaluation in reasoning step selection for complex problem solving. In this paper, we present Boosting of Thoughts (BoT), an automated prompting framework for problem solving with LLMs by iteratively exploring and self-evaluating many trees of thoughts in order to acquire an ensemble of trial-and-error reasoning experiences, which will serve as a new form of prompting to solve the complex problem. Starting from a simple prompt without requiring examples, BoT iteratively explores and evaluates a large collection of reasoning steps, and more importantly, uses error analysis obtained from the LLM on them to explicitly revise prompting, which in turn enhances reasoning step generation, until a final answer is attained. Our experiments with GPT-4 and Llama2 across extensive complex mathematical problems demonstrate that BoT consistently achieves higher or comparable problem-solving rates than other advanced prompting approaches.",
+    "authors": [
+      "Sijia Chen",
+      "Baochun Li",
+      "Di Niu"
+    ],
+    "raw_authors": [
+      "Sijia Chen",
+      "Baochun Li",
+      "Di Niu"
+    ],
+    "keywords": [
+      "Large Language Models; Prompt Engineering; Boosting Mechanism;"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=qBL04XXex6",
+    "forum_url": "https://openreview.net/forum?id=qBL04XXex6",
+    "created_time": "2023-09-24T06:58:20.801000",
+    "modified_time": "2024-03-15T20:05:13.404000"
+  },
+  {
+    "id": "H9DYMIpz9c",
+    "conference": "ICLR",
+    "title": "Farzi Data: Autoregressive Data Distillation",
+    "abstract": "We study data distillation for auto-regressive machine learning tasks, where the input and output have a strict left-to-right causal structure. More specifically, we propose Farzi, which summarizes an event sequence dataset into a small number of synthetic sequences \u2014 Farzi Data \u2014 which are optimized to maintain (if not improve) model performance compared to training on the full dataset. Under the hood, FARZI conducts memory-efficient data distillation by (i) deriving efficient reverse-mode differentiation of the Adam optimizer by leveraging Hessian-Vector Products; and (ii) factorizing the high-dimensional discrete event-space into a latent-space which provably promotes implicit regularization. Empirically, for sequential recommendation and language modeling tasks, we are able to achieve 98 \u2212 120% of downstream full-data performance when training state-of-the-art models on Farzi Data of size as little as 0.1% of the original dataset. Notably, being able to train better models with significantly less data sheds light on the design of future large auto-regressive models, and opens up new opportunities to further scale up model and data sizes.",
+    "authors": [
+      "Noveen Sachdeva",
+      "Zexue He",
+      "Wang-Cheng Kang",
+      "Jianmo Ni",
+      "Derek Zhiyuan Cheng",
+      "Julian McAuley"
+    ],
+    "raw_authors": [
+      "Noveen Sachdeva",
+      "Zexue He",
+      "Wang-Cheng Kang",
+      "Jianmo Ni",
+      "Derek Zhiyuan Cheng",
+      "Julian McAuley"
+    ],
+    "keywords": [
+      "Data Distillation",
+      "Meta Learning",
+      "Recommender Systems",
+      "Language Modeling"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=H9DYMIpz9c",
+    "forum_url": "https://openreview.net/forum?id=H9DYMIpz9c",
+    "created_time": "2023-09-24T06:56:25.451000",
+    "modified_time": "2024-02-10T22:29:35.673000"
+  },
+  {
+    "id": "rp5vfyp5Np",
+    "conference": "ICLR",
+    "title": "BATTLE: Towards Behavior-oriented Adversarial Attacks against Deep Reinforcement Learning",
+    "abstract": "Evaluating the performance of deep reinforcement learning (DRL) agents under adversarial attacks that aim to induce specific behaviors, i.e., behavior-oriented adversarial attacks, is crucial for understanding the robustness of DRL agents. Prior research primarily focuses on directing agents towards pre-determined states or policies, lacking generality and flexibility. Therefore, it is important to devise universal attacks that target inducing specific behaviors in a victim. In this work, we propose BATTLE, a universal behavior-oriented adversarial attack method. In BATTLE, an intention policy is trained to align with human preferences for flexible behavior orientation, while the adversary is trained to guide the victim policy to imitate the intention policy. To improve the attack performance, we introduce a weighting function that assigns importance weights over each state. Our empirical results over several manipulation tasks of Meta-world show the superiority of BATTLE in behavior-oriented adversarial attack settings, outperforming current adversarial attack algorithms. Furthermore, we also demonstrate that BATTLE can improve the robustness of agents under strong attacks by training with adversary. Lastly, we showcase the strong behavior-inducing capability of BATTLE by guiding Decision Transformer agents to act in line with human preferences across various MuJoCo tasks. Our videos are available in https://sites.google.com/view/jj9uxjgmba5lr3g.",
+    "authors": [
+      "Fengshuo Bai",
+      "Runze Liu",
+      "Yali Du",
+      "Ying Wen",
+      "Yaodong Yang"
+    ],
+    "raw_authors": [
+      "Fengshuo Bai",
+      "Runze Liu",
+      "Yali Du",
+      "Ying Wen",
+      "Yaodong Yang"
+    ],
+    "keywords": [
+      "deep reinforcement learning",
+      "preference-based reinforcement learning",
+      "adversarial reinforcement learning"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=rp5vfyp5Np",
+    "forum_url": "https://openreview.net/forum?id=rp5vfyp5Np",
+    "created_time": "2023-09-24T06:56:21.855000",
+    "modified_time": "2024-02-10T22:29:35.623000"
+  },
+  {
+    "id": "miGpIhquyB",
+    "conference": "ICLR",
+    "title": "Understanding Large Language Models Through the Lens of Dataset Generation",
+    "abstract": "There has been increased interest in using Large Language Models (LLMs) for text dataset generation subject to a desired attribute, e.g., for use in downstream fine-tuning or training. These works generally focus on a single quality metric of the generated text, typically accuracy on a downstream task. However, this fails to consider whether the model even has the ability to faithfully model the data distribution of the desired real-world domain. In contrast, in this work, we additionally focus on important distributional metrics agnostic to the downstream task, such as data diversity and faithfulness. We show that even in simple domains, generated datasets reveal inherent trade-offs between these metrics across models and training regimes. Further, we find that our metrics not only describe the generated dataset, but also capture key aspects of the underlying model. This allows us to characterize the generated datasets, individual models and by comparison the properties of different model families and training paradigms. By focusing on sub-distributions well-represented in the training data of LLMs, we can, for example, show that popular instruction-tuning techniques strongly decrease the LLM\u2019s text generation abilities, with respect to distributional aspects like diversity.",
+    "authors": [
+      "Jasper Dekoninck",
+      "Marc Fischer",
+      "Luca Beurer-Kellner",
+      "Martin Vechev"
+    ],
+    "raw_authors": [
+      "Jasper Dekoninck",
+      "Marc Fischer",
+      "Luca Beurer-Kellner",
+      "Martin Vechev"
+    ],
+    "keywords": [
+      "Large Language Model",
+      "dataset generation"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=miGpIhquyB",
+    "forum_url": "https://openreview.net/forum?id=miGpIhquyB",
+    "created_time": "2023-09-24T06:56:14.348000",
+    "modified_time": "2024-02-10T22:29:35.586000"
+  },
+  {
+    "id": "SMZnJtkNX5",
+    "conference": "ICLR",
+    "title": "Temporal Parallelization for GPU Acceleration of Spiking Neural Networks",
+    "abstract": "Inspired by neurobiological structures, Spiking Neural Networks (SNNs) are heralded as a significant advancement in deep learning, given their potential for superior computational efficiency. However, this potential often remains untapped on contemporary hardware platforms. Specifically, when deployed on standard GPUs, SNNs tend to require extended computation times, placing them at a disadvantage compared to traditional Artificial Neural Networks (ANNs). Such inefficiencies have somehow diminished enthusiasm for SNN research and presented the tangible challenge to achieving scalability. To address such a challenge, this study introduces a temporal parallelization method specifically tailored for accelerating the propagation dynamics of SNNs on GPUs. Furthermore, we furnish two distinct implementations\\footnote{The source code will be made publicly available.} based on the CUDA and JAX frameworks respectively, ensuring adaptability across both single and multi-GPU setups. When benchmarked against several established SNN implementations, the empirical analysis confirmed the efficacy of our proposed method. Notably, with the Leaky Integrate-and-Fire model as a test case, the CUDA-based implementation achieved $5\\times$ to $40\\times$ acceleration on the A100 GPU.",
+    "authors": [
+      "Jiachun Li",
+      "Yanchen Li",
+      "Kebin Sun",
+      "Ran Cheng"
+    ],
+    "raw_authors": [
+      "Jiachun Li",
+      "Yanchen Li",
+      "Kebin Sun",
+      "Ran Cheng"
+    ],
+    "keywords": [
+      "Spiking neural networks",
+      "High-performance computing",
+      "GPU acceleration"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=SMZnJtkNX5",
+    "forum_url": "https://openreview.net/forum?id=SMZnJtkNX5",
+    "created_time": "2023-09-24T06:55:53.388000",
+    "modified_time": "2024-03-25T11:51:33.652000"
+  },
+  {
+    "id": "6AtXCnHCFy",
+    "conference": "ICLR",
+    "title": "FSN: Feature Shift Network for Load-Domain Domain Generalization",
+    "abstract": "Conventional deep learning methods for fault detection often assume that the training and the testing sets share the same fault pattern spaces and domain spaces. However, some fault patterns are rare, and many real-world faults have not appeared in the training set. As a result, it\u2019s hard for the trained model to achieve desirable performance on the testing set. \nIn this paper, we introduce a novel domain generalization, Load-Domain (LD) domain generalization, which is based on the analysis of the CWRU bearing dataset and its domain division method. For this scenario, we propose a feature shift model called FSN (Feature Shift Network). In the bearing dataset, domains are divided based on different operating conditions which have specific loads, so it\u2019s equivalent to load-based domain division. Moreover, the domain label corresponds to the actual load magnitude, making it unique as it contains physical information, which can boost detection accuracy on unknown domain beyond the training set. According to the knowledge above , FSN is trained for feature shift on adjacent source domains, and finally shifts target domain features into adjacent source domain feature space to achieve the purpose of domain generalization.\nExtensive experiments on CWRU demonstrate that FSN is better than the existed models in the LD domain generalization case. Furthermore, we have another test on MNIST, which also shows FSN can achieve the best performance.",
+    "authors": [
+      "Heng Chen",
+      "Erkang Zhao",
+      "Lei Shi",
+      "Yuhui Zhou"
+    ],
+    "raw_authors": [
+      "Heng Chen",
+      "Erkang Zhao",
+      "Lei Shi",
+      "Yuhui Zhou"
+    ],
+    "keywords": [
+      "Fault diagnosis",
+      "Deep learning",
+      "CNN",
+      "Domain Generalization",
+      "Load-domain Domain Generalization"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=6AtXCnHCFy",
+    "forum_url": "https://openreview.net/forum?id=6AtXCnHCFy",
+    "created_time": "2023-09-24T06:53:20.291000",
+    "modified_time": "2024-03-25T11:53:03.529000"
+  },
+  {
+    "id": "9ceadCJY4B",
+    "conference": "ICLR",
+    "title": "Ask Again, Then Fail: Large Language Models\u2019 Vacillations in Judgement",
+    "abstract": "With the emergence of generative conversational large language models (LLMs) like ChatGPT, serving as virtual assistants in various fields, the stability and reliability of their responses have become crucial. However, during usage, it has been observed that these models tend to waver in their judgements when confronted with follow-up questions from users expressing skepticism or disagreement. In this work, we draw inspiration from questioning strategies in education and propose a \\textsc{Follow-up Questioning Mechanism} along with two evaluation metrics to assess the judgement consistency of LLMs before and after exposure to disturbances. We evaluate the judgement consistency of ChatGPT, PaLM2-Bison, and Vicuna-13B under this mechanism across eight reasoning benchmarks. Empirical results show that even when the initial answers are correct, judgement consistency sharply decreases when LLMs face disturbances such as questioning, negation, or misleading. Additionally, we study these models' judgement consistency under various settings (sampling temperature and prompts) to validate this issue further, observing the impact of prompt tone and conducting an in-depth error analysis for deeper behavioral insights. Furthermore, we also explore several prompting methods to mitigate this issue and demonstrate their effectiveness.",
+    "authors": [
+      "Qiming Xie",
+      "Zengzhi Wang",
+      "Yi Feng",
+      "Rui Xia"
+    ],
+    "raw_authors": [
+      "Qiming Xie",
+      "Zengzhi Wang",
+      "Yi Feng",
+      "Rui Xia"
+    ],
+    "keywords": [
+      "Large Language Models",
+      "Uncertainty",
+      "Evaluation",
+      "In-Context Learning",
+      "Alignment",
+      "Multi-round dialogue",
+      "Robustness"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=9ceadCJY4B",
+    "forum_url": "https://openreview.net/forum?id=9ceadCJY4B",
+    "created_time": "2023-09-24T06:52:39.223000",
+    "modified_time": "2024-02-10T22:29:35.573000"
+  },
+  {
+    "id": "BXYZvcgVUv",
+    "conference": "ICLR",
+    "title": "Object-Relational Graph Framework for Zero-Shot 3D Scene Segmentation",
+    "abstract": "When it comes to understanding 3D scenes, the capability to perform zero-shot comprehension on real-world objects is essential, as unseen objects, absent from the training data, frequently appear in natural scenes.  While prior works have proposed zero-shot scene segmentation approaches by aligning 3D point features with other data modalities, they often rely on paired image sets for 3D data. More importantly, they treat scene objects independently, thereby neglecting the rich relational information inherent in scenes. This relational information between objects plays a pivotal role in identifying unseen objects within a scene, transforming the zero-shot scene understanding problem into a question as 'which object is likely to be adjacent to object A and on top of object B?'. Toward this, we introduce a novel open-vocabulary 3D scene segmentation strategy, ORG, which embeds 3D scenes into a knowledge graph framework. Our framework constructs entity graphs among scene objects using a 2D segmentation foundation model and learns relational knowledge within this graph structure. By semantically aligning node embeddings with text embedding space, ORG performs zero-shot inference effectively while leveraging prior relational knowledge specific to a given scene.  Our method consistently outperforms existing zero-shot scene segmentation approaches on three 3D scene understanding datasets: S3DIS, ScanNetV2, and 3DSSG.",
+    "authors": [
+      "Joonhyung Park",
+      "Jaeyun Song",
+      "JungEun Kim",
+      "Eunho Yang"
+    ],
+    "raw_authors": [
+      "Joonhyung Park",
+      "Jaeyun Song",
+      "JungEun Kim",
+      "Eunho Yang"
+    ],
+    "keywords": [
+      "Deep learning",
+      "Point cloud analysis",
+      "3D scene segmentation"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=BXYZvcgVUv",
+    "forum_url": "https://openreview.net/forum?id=BXYZvcgVUv",
+    "created_time": "2023-09-24T06:52:06.096000",
+    "modified_time": "2024-03-25T11:52:41.420000"
+  },
+  {
+    "id": "gYcft1HIaU",
+    "conference": "ICLR",
+    "title": "Do Current Large Language Models Master Adequate Clinical Knowledge?",
+    "abstract": "Large Language Models (LLMs) show promising potential in solving clinical problems. Current LLMs, including so-called medical LLMs, are reported to achieve excellent performance on certain medical evaluation benchmarks, such as medical question answering, medical exams, etc. However, such evaluations cannot assess whether LLMs have mastered sufficient, compressive, and necessary medical knowledge for solving real clinical problems, such as clinical diagnostic assistance. In this paper, we propose a framework to assess the mastery of LLMs in clinical knowledge. Firstly, we construct a large medical disease-based knowledge base, MedDisK, covering 10,632 common diseases across 18 clinical knowledge aspects, which are crucial for diagnosing and treating diseases. Built on that, we propose a MedDisK-based evaluation method MedDisKEval: We prompt LLMs to retrieve information related to these clinical knowledge aspects. Then, we evaluate an LLM's mastery of medical knowledge by measuring the similarity between the LLM-generated information and the content within our knowledge base. Our experimental findings reveal that over 50\\% of the clinical information generated by our evaluated LLMs is significantly inconsistent with the corresponding knowledge stored in our knowledge base. We further perform a significance analysis to compare the performance of medical LLMs with their backbone models, discovering that 5 out of 6 medical LLMs perform less effectively than their backbone models in over half of the clinical knowledge aspects. These observations demonstrate that existing LLMs have not mastered adequate knowledge for clinical practice. Our findings offer novel and constructive insights for the advancement of medical LLMs.",
+    "authors": [
+      "Yuxuan Zhou",
+      "Chen Ning",
+      "Xien Liu",
+      "Ji Wu"
+    ],
+    "raw_authors": [
+      "Yuxuan Zhou",
+      "Chen Ning",
+      "Xien Liu",
+      "Ji Wu"
+    ],
+    "keywords": [
+      "Large Language Model",
+      "Medical Large Language Model",
+      "Clinical Knowledge",
+      "Knowledge Graph"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=gYcft1HIaU",
+    "forum_url": "https://openreview.net/forum?id=gYcft1HIaU",
+    "created_time": "2023-09-24T06:52:04.650000",
+    "modified_time": "2024-02-10T22:29:35.551000"
+  },
+  {
+    "id": "10eQ4Cfh8p",
+    "conference": "ICLR",
+    "title": "SIMULTANEOUS GENERATION AND IMPROVEMENT: A UNIFIED RL PARADIGM FOR FJSP OPTIMIZATION",
+    "abstract": "We present an end-to-end reinforcement learning framework designed to address the Flexible Job Shop Problem (FJSP). Our approach consists of two primary components: a generative model that produces problem solutions stepwise, and a secondary model that continually refines these (partial) solutions. Importantly, we train both models concurrently, enabling each to be cognizant of the other's policy and make informed decisions. Extensive experimentation demonstrates that our model delivers better performance in shorter time on several public datasets comparing to baseline algorithms. Furthermore, we highlight the superior generalizability of our approach, as it maintains strong performance on large-scale instances even when trained on small-scale instances. It is worth noting that this training paradigm can be readily adapted to other combinatorial optimization problems, such as the traveling salesman problemand beyond.",
+    "authors": [
+      "Hongyi Zhou",
+      "Lei Song"
+    ],
+    "raw_authors": [
+      "Hongyi Zhou",
+      "Lei Song"
+    ],
+    "keywords": [
+      "Reinforcement Learning",
+      "Flexible Job Shop Schedule Problem",
+      "FJSP"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=10eQ4Cfh8p",
+    "forum_url": "https://openreview.net/forum?id=10eQ4Cfh8p",
+    "created_time": "2023-09-24T06:49:57.641000",
+    "modified_time": "2024-02-10T22:29:35.487000"
+  },
+  {
+    "id": "NFqFA2vCQV",
+    "conference": "ICLR",
+    "title": "AdaptIP: Transferring Cross-modal Information to Temporal Modeling for Video-Language Representation Learning",
+    "abstract": "Driven by the data-centric AI paradigm, pre-trained image-text representations exhibit a subtle alignment of visual and textual concepts. In light of images being a subset of videos, recent work is dedicated to transferring pre-trained image-text representations into the video-language domain, attracting widespread attention. Nevertheless, these efforts employ training strategies such as full fine-tuning or post-pretraining, which do not necessarily constitute the most optimal approaches for transferring general pre-trained representations. In this paper, we resort to the increasingly popular parameter-efficient transfer learning (PETL) approach, proposing AdptIP, to adapt the pre-trained CLIP model into the field of video-language representation learning. AdaptIP devises a hierarchical cross-modal adaptation approach, focusing on intra-modal temporal modeling and inter-modal fine-grained alignment within the video-language domain. Additionally, the pre-trained CLIP backbone is frozen to maintain a common prior and ensure efficient model training. Comprehensive experiments on video-text retrieval, video question answering, and video captioning benchmarks highlight the versatility, superiority and efficiency of AdaptIP. Code will be available soon.",
+    "authors": [
+      "Yaowei Li",
+      "Hongxiang Li",
+      "Xuxin Cheng",
+      "Bang Yang",
+      "Zhihong Zhu",
+      "Yuexian Zou"
+    ],
+    "raw_authors": [
+      "Yaowei Li",
+      "Hongxiang Li",
+      "Xuxin Cheng",
+      "Bang Yang",
+      "Zhihong Zhu",
+      "Yuexian Zou"
+    ],
+    "keywords": [
+      "video-language representation learning",
+      "transfer learning"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=NFqFA2vCQV",
+    "forum_url": "https://openreview.net/forum?id=NFqFA2vCQV",
+    "created_time": "2023-09-24T06:48:00.113000",
+    "modified_time": "2024-03-25T11:51:53.986000"
+  },
+  {
+    "id": "BQvbL2sFQx",
+    "conference": "ICLR",
+    "title": "Model-Agnostic Shift-Equivariant Downsampling",
+    "abstract": "The performance of convolutional neural networks (CNNs) are thought to be insensitive to image shifts. However, recent studies have revealed that downsampling layers in CNNs result in inconsistent outputs for shifted input images. In this\nstudy, we present an approach for performing downsampling that ensures absolute shift equivariance. By employing model-agnostic downsampling method that leverages origin selection functions obtained from coordinate-independent statistics of the feature map, we can achieve perfect shift equivariance, while still adhering to the conventional downsampling procedures. Our method allows CNNs to exhibit both improved accuracy and perfect shift invariance for image classification, while also achieving shift equivariance in semantic segmentation benchmarks. Furthermore, we introduce a methodology for achieving shift equivariance without the need for any additional training process. This is accomplished by transferring pretrained weights and replacing existing layers with shift-equivariant\ncounterparts. Additionaly, we show that fine-tuning of the modified CNNs leads superior performance compared to previously proposed models.",
+    "authors": [
+      "Myungjoon Kim",
+      "Arthur Baucour",
+      "Jonghwa Shin"
+    ],
+    "raw_authors": [
+      "Myungjoon Kim",
+      "Arthur Baucour",
+      "Jonghwa Shin"
+    ],
+    "keywords": [
+      "Shift equivariance",
+      "Shift invariance",
+      "Downsampling",
+      "Convolutional neural networks"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=BQvbL2sFQx",
+    "forum_url": "https://openreview.net/forum?id=BQvbL2sFQx",
+    "created_time": "2023-09-24T06:47:17.170000",
+    "modified_time": "2024-02-10T22:29:35.447000"
+  },
+  {
+    "id": "eR4W9tnJoZ",
+    "conference": "ICLR",
+    "title": "Visuo-emotional perception and Human Cognition to engineer content-generation using Generative AI",
+    "abstract": "Media platforms compete for users\u2019 attention. Their reach crucially depends on algorithmic real-time bidding and efficiency of hyper-personalized, rapidly generated, and user-optimized content. Attention is, although, a scare and fleeting quantity, often awarded less than 1 second per stimulus. Thus, the current strategy is to rely on the vast amount of user-generated data to mimic the content to the user. The underlying assumption is that this is sufficient incentive for attention. This strategy has evidently failed. As witnessed by the alarmingly low or short-lived successes of campaigns in recent times. This mismatch is exacerbated because most content consumed today is digital. Whereas strategies for digital content mimic our past understanding from mass-media. Hence, we formalize a new understanding of communication, specifically for the digital mediums. We prove that the digital medium needs a new understanding of communication protocols. To that end, we take a first principles approach to the new communication protocol: the neurological representations of communication, specifically, where the communication happens in less than 1 second per stimulus. First, we break down and elaborate on this neurological representation of decision-making. Next, we proffer use of our behavioural communication model for generation and optimization of content creatives. To that end, we elaborate methods for rapid, AI-generation content, increasing the efficiency of visual communication on digital media. Within this exploration we include themes of Hyperpersonalization and Search-engine optimization. Thus, we find that strategically produced content exhibits stronger associations to users\u2019 nonconscious needs, wants and goals, which elicits user attention and content-diversity significantly.",
+    "authors": [
+      "Tanya Upadhyay",
+      "Jieya Rawal",
+      "Kirtana Sunil Phatnani",
+      "Biju Joseph Dominic"
+    ],
+    "raw_authors": [
+      "Tanya Upadhyay",
+      "Jieya Rawal",
+      "Kirtana Sunil Phatnani",
+      "Biju Joseph Dominic"
+    ],
+    "keywords": [
+      "creative content",
+      "digital creatives",
+      "attention",
+      "personalization",
+      "content optimization",
+      "content generation",
+      "generative AI"
+    ],
+    "tldr": "N/A",
+    "pdf_url": "https://openreview.net/pdf?id=eR4W9tnJoZ",
+    "forum_url": "https://openreview.net/forum?id=eR4W9tnJoZ",
+    "created_time": "2023-09-24T06:47:10.321000",
+    "modified_time": "2024-02-10T22:29:35.451000"
+  }
+]

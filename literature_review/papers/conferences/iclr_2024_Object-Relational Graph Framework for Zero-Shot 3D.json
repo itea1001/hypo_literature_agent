@@ -1,0 +1,28 @@
+{
+  "id": "BXYZvcgVUv",
+  "conference": "ICLR",
+  "title": "Object-Relational Graph Framework for Zero-Shot 3D Scene Segmentation",
+  "abstract": "When it comes to understanding 3D scenes, the capability to perform zero-shot comprehension on real-world objects is essential, as unseen objects, absent from the training data, frequently appear in natural scenes.  While prior works have proposed zero-shot scene segmentation approaches by aligning 3D point features with other data modalities, they often rely on paired image sets for 3D data. More importantly, they treat scene objects independently, thereby neglecting the rich relational information inherent in scenes. This relational information between objects plays a pivotal role in identifying unseen objects within a scene, transforming the zero-shot scene understanding problem into a question as 'which object is likely to be adjacent to object A and on top of object B?'. Toward this, we introduce a novel open-vocabulary 3D scene segmentation strategy, ORG, which embeds 3D scenes into a knowledge graph framework. Our framework constructs entity graphs among scene objects using a 2D segmentation foundation model and learns relational knowledge within this graph structure. By semantically aligning node embeddings with text embedding space, ORG performs zero-shot inference effectively while leveraging prior relational knowledge specific to a given scene.  Our method consistently outperforms existing zero-shot scene segmentation approaches on three 3D scene understanding datasets: S3DIS, ScanNetV2, and 3DSSG.",
+  "authors": [
+    "Joonhyung Park",
+    "Jaeyun Song",
+    "JungEun Kim",
+    "Eunho Yang"
+  ],
+  "raw_authors": [
+    "Joonhyung Park",
+    "Jaeyun Song",
+    "JungEun Kim",
+    "Eunho Yang"
+  ],
+  "keywords": [
+    "Deep learning",
+    "Point cloud analysis",
+    "3D scene segmentation"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=BXYZvcgVUv",
+  "forum_url": "https://openreview.net/forum?id=BXYZvcgVUv",
+  "created_time": "2023-09-24T06:52:06.096000",
+  "modified_time": "2024-03-25T11:52:41.420000"
+}

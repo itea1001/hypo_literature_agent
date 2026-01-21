@@ -1,0 +1,31 @@
+{
+  "id": "cXs5md5wAq",
+  "conference": "ICLR",
+  "title": "Modelling Microbial Communities with Graph Neural Networks",
+  "abstract": "Understanding the interactions and interplay of microorganisms is a great challenge with many applications in medical and environmental settings. In this work, we model bacterial communities directly from their genomes using graph neural networks (GNNs). GNNs leverage the inductive bias induced by the set nature of bacteria, enforcing permutation invariance and granting combinatorial generalization. We propose to learn the dynamics implicitly by directly predicting community relative abundance profiles at steady state, thus escaping the need for growth curves. On two real-world datasets, we show for the first time generalization to unseen bacteria and different community structures. \nTo investigate the prediction results more deeply, we created a simulation for flexible data generation and analyze effects of bacteria interaction strength, community size, and training data amount.",
+  "authors": [
+    "Albane Ruaud",
+    "Cansu Sancaktar",
+    "Marco Bagatella",
+    "Christoph Ratzke",
+    "Georg Martius"
+  ],
+  "raw_authors": [
+    "Albane Ruaud",
+    "Cansu Sancaktar",
+    "Marco Bagatella",
+    "Christoph Ratzke",
+    "Georg Martius"
+  ],
+  "keywords": [
+    "graph neural networks",
+    "microbial communities",
+    "microbiology",
+    "genomes"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=cXs5md5wAq",
+  "forum_url": "https://openreview.net/forum?id=cXs5md5wAq",
+  "created_time": "2023-09-24T07:37:19.827000",
+  "modified_time": "2024-02-10T22:29:35.793000"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mnyXZBa5dP",
+  "conference": "ICLR",
+  "title": "Image Authenticity Detection using Eye Gazing Data:  A Performance Comparison Beyond Human Capabilities  via Attention Mechanism, ResNet, and Cascade  Strategies",
+  "abstract": "In the digital age, determining the authenticity of images has become \nincreasingly crucial. This study aims to explore the capability of machine \nlearning models in identifying manipulated images using eye movement data and \ncompares this with human judgment. We collected a series of both manipulated \nand unaltered images and conducted eye-tracking experiments on a set of \nparticipants. After data preprocessing, various machine learning models were \ntrained and validated, including a simple classifier, cascade-optimized classifier, \nand models integrating attention mechanisms with ResNet architectures. Results \nindicate that all models outperformed the baseline set by human judgment. \nSpecifically, the Attention-ResNet model achieved the highest accuracy at 0.685, \nmaking it the top-performing model. Our analysis delves further into the stability, \ngeneralization capabilities, and practical value of these models. Ultimately, this \nresearch underscores the immense potential of deep learning strategies in \nverifying image authenticity, providing valuable insights for future research and \napplications.",
+  "authors": [
+    "Ping Zhang"
+  ],
+  "raw_authors": [
+    "Ping Zhang"
+  ],
+  "keywords": [
+    "Image Manipulation Detection",
+    "Cascade Networks",
+    "Eye-tracking  Data",
+    "Model Stability"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=mnyXZBa5dP",
+  "forum_url": "https://openreview.net/forum?id=mnyXZBa5dP",
+  "created_time": "2023-09-24T07:05:35.790000",
+  "modified_time": "2024-03-25T12:05:09.623000"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "jIh4W7r0rn",
+  "conference": "NEURIPS",
+  "title": "Autoregressive Image Diffusion: Generation of Image Sequence and Application in MRI",
+  "abstract": "Magnetic resonance imaging (MRI) is a widely used non-invasive imaging modality. However, a persistent challenge  lies in balancing image quality with imaging speed. This trade-off is primarily constrained by k-space measurements, which traverse specific trajectories in the spatial Fourier domain (k-space). These measurements are often undersampled to shorten acquisition times, resulting in image artifacts and compromised quality. Generative models learn image distributions and can be used to reconstruct high-quality images from undersampled k-space data. In this work, we present the autoregressive image diffusion (AID) model for image sequences and use it to sample the posterior for accelerated MRI reconstruction. The algorithm incorporates both undersampled k-space and pre-existing information. Models trained with fastMRI dataset are evaluated comprehensively. The results show that the AID model can robustly generate sequentially coherent image sequences. In MRI applications, the AID can outperform the standard diffusion model and reduce hallucinations, due to the learned inter-image dependencies. The project code is available at https://github.com/mrirecon/aid.",
+  "authors": [
+    "Guanxiong Luo",
+    "Shoujin Huang",
+    "Martin Uecker"
+  ],
+  "raw_authors": [
+    "Guanxiong Luo",
+    "Shoujin Huang",
+    "Martin Uecker"
+  ],
+  "keywords": [
+    "Autoregressive models",
+    "Diffusion models",
+    "Inverse problems",
+    "Medical imaging",
+    "MRI"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=jIh4W7r0rn",
+  "forum_url": "https://openreview.net/forum?id=jIh4W7r0rn",
+  "created_time": "2024-05-15T14:59:46.869000",
+  "modified_time": "2025-01-06T12:30:15.180000"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "qrfp4eeZ47",
+  "conference": "NEURIPS",
+  "title": "FactorizePhys: Matrix Factorization for Multidimensional Attention in Remote Physiological Sensing",
+  "abstract": "Remote photoplethysmography (rPPG) enables non-invasive extraction of blood volume pulse signals through imaging, transforming spatial-temporal data into time series signals. Advances in end-to-end rPPG approaches have focused on this transformation where attention mechanisms are crucial for feature extraction. However, existing methods compute attention disjointly across spatial, temporal, and channel dimensions. Here, we propose the Factorized Self-Attention Module (FSAM), which jointly computes multidimensional attention from voxel embeddings using nonnegative matrix factorization. To demonstrate FSAM's effectiveness, we developed FactorizePhys, an end-to-end 3D-CNN architecture for estimating blood volume pulse signals from raw video frames. Our approach adeptly factorizes voxel embeddings to achieve comprehensive spatial, temporal, and channel attention, enhancing performance of generic signal extraction tasks. Furthermore, we deploy FSAM within an existing 2D-CNN-based rPPG architecture to illustrate its versatility. FSAM and FactorizePhys are thoroughly evaluated against state-of-the-art rPPG methods, each representing different types of architecture and attention mechanism. We perform ablation studies to investigate the architectural decisions and hyperparameters of FSAM. Experiments on four publicly available datasets and intuitive visualization of learned spatial-temporal features substantiate the effectiveness of FSAM and enhanced cross-dataset generalization in estimating rPPG signals, suggesting its broader potential as a multidimensional attention mechanism. The code is accessible at https://github.com/PhysiologicAILab/FactorizePhys.",
+  "authors": [
+    "Jitesh Joshi",
+    "Sos Agaian",
+    "Youngjun Cho"
+  ],
+  "raw_authors": [
+    "Jitesh Joshi",
+    "Sos Agaian",
+    "Youngjun Cho"
+  ],
+  "keywords": [
+    "Time-series estimation",
+    "remote photo-plethysmography",
+    "spatial-temporal attention",
+    "non-negative matrix factorization"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=qrfp4eeZ47",
+  "forum_url": "https://openreview.net/forum?id=qrfp4eeZ47",
+  "created_time": "2024-05-15T14:52:54.887000",
+  "modified_time": "2024-11-06T00:20:06.466000"
+}

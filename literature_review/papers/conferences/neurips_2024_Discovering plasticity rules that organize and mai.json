@@ -1,0 +1,24 @@
+{
+  "id": "nw4TWuEPGx",
+  "conference": "NEURIPS",
+  "title": "Discovering plasticity rules that organize and maintain neural circuits",
+  "abstract": "Intrinsic dynamics within the brain can accelerate learning by providing a prior scaffolding for dynamics aligned with task objectives. Such intrinsic dynamics would ideally self-organize and self-sustain in the face of biological noise including synaptic turnover and cell death. An example of such dynamics is the formation of sequences, a ubiquitous motif in neural activity. The sequence-generating circuit in zebra finch HVC provides a reliable timing scaffold for motor output in song and demonstrates a remarkable capacity for unsupervised recovery following perturbation. Inspired by HVC, we seek a local plasticity rule capable of organizing and maintaining sequence-generating dynamics despite continual network perturbations. We adopt a meta-learning approach introduced by Confavreux et al, which parameterizes a learning rule using basis functions constructed from pre- and postsynaptic activity and synapse size, with tunable time constants. Candidate rules are simulated within initially random networks, and their fitness is evaluated according to a loss function that measures the fidelity with which the resulting dynamics encode time. We use this approach to introduce biological noise, forcing meta-learning to find robust solutions. We first show that, in the absence of perturbations, meta-learning identifies a temporally asymmetric generalization of Oja's rule that reliably organizes sparse sequential activity. When synaptic turnover is introduced, the learned rule incorporates a form of homeostasis, better maintaining robust sequential dynamics relative to other previously proposed rules. Additionally, inspired by recent findings demonstrating that the strength of projections from inhibitory interneurons in HVC also dynamically responds to perturbations, we explore the role of inhibitory plasticity in sequence-generating circuits. We find that learned plasticity adjusts both excitation and inhibition in response to manipulations, outperforming rules applied only to excitatory connections. We demonstrate how plasticity acting on both excitatory and inhibitory synapses can better shape excitatory cell dynamics to scaffold timing representations.",
+  "authors": [
+    "David G Bell",
+    "Alison Duffy",
+    "Adrienne Fairhall"
+  ],
+  "raw_authors": [
+    "David G Bell",
+    "Alison Duffy",
+    "Adrienne Fairhall"
+  ],
+  "keywords": [
+    "biologically plausible learning rules plasticity self-organization RNNs homeostasis meta-learning"
+  ],
+  "tldr": "N/A",
+  "pdf_url": "https://openreview.net/pdf?id=nw4TWuEPGx",
+  "forum_url": "https://openreview.net/forum?id=nw4TWuEPGx",
+  "created_time": "2024-05-15T14:45:37.817000",
+  "modified_time": "2025-01-16T02:43:40.901000"
+}
