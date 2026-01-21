@@ -91,9 +91,16 @@ class LLMIdeaGenerator:
     def generate_ideas(self, 
                        category: str, 
                        num_ideas: int = 5,
-                       with_critique: bool = False) -> dict:
+                       with_critique: bool = False,
+                       refine_iterations: int = 0) -> dict:
         """
         Generate ideas for a category using LLM.
+        
+        Args:
+            category: Category to generate ideas for
+            num_ideas: Number of ideas to generate
+            with_critique: Include a critique step
+            refine_iterations: Number of critique-refine iterations (0 = no refinement)
         
         Returns:
             Dictionary with generation results including raw LLM output
@@ -106,8 +113,66 @@ class LLMIdeaGenerator:
         ideas_text = self.call_llm(result['generation_prompt'])
         result['generated_ideas_raw'] = ideas_text
         
-        # Optionally critique
-        if with_critique:
+        # Track all iterations
+        iteration_history = [{'iteration': 0, 'ideas': ideas_text}]
+        
+        # Critique-refine loop
+        if refine_iterations > 0:
+            current_ideas = ideas_text
+            
+            for i in range(refine_iterations):
+                logger.info(f"Critique-refine iteration {i+1}/{refine_iterations}...")
+                
+                # Step 1: Critique
+                critique_prompt = f"""You are a critical but constructive research reviewer. Evaluate these research ideas:
+
+## Research Ideas
+{current_ideas}
+
+## Task
+For each idea, provide:
+1. **Strengths**: What's good about this idea
+2. **Weaknesses**: Specific problems (vagueness, feasibility issues, lack of novelty)
+3. **Score**: 1-10 (10 = excellent)
+4. **Specific Improvements**: Concrete suggestions to make it better
+
+Be rigorous - identify real issues that would come up in peer review.
+"""
+                critique_text = self.call_llm(critique_prompt)
+                
+                # Step 2: Refine based on critique
+                refine_prompt = f"""You are a research scientist improving your ideas based on reviewer feedback.
+
+## Original Ideas
+{current_ideas}
+
+## Reviewer Critique
+{critique_text}
+
+## Task
+Rewrite ALL the ideas, addressing the reviewer's concerns:
+- Make vague ideas more specific and actionable
+- Address feasibility concerns with concrete approaches
+- Strengthen novelty by differentiating from existing work
+- Keep the same format as the original ideas
+
+Output the improved versions of all ideas.
+"""
+                refined_ideas = self.call_llm(refine_prompt)
+                current_ideas = refined_ideas
+                
+                iteration_history.append({
+                    'iteration': i + 1,
+                    'critique': critique_text,
+                    'refined_ideas': refined_ideas
+                })
+            
+            result['generated_ideas_raw'] = current_ideas  # Final refined version
+            result['iteration_history'] = iteration_history
+            result['num_refinement_iterations'] = refine_iterations
+        
+        # Single critique (no refinement)
+        elif with_critique:
             logger.info("Running self-critique on generated ideas...")
             critique_prompt = f"""You are reviewing the following research ideas for quality and novelty.
 
@@ -140,10 +205,13 @@ Be critical but constructive.
                 'num_papers': result['domain_context']['num_papers'],
                 'top_keywords': result['domain_context']['top_keywords'][:15],
             },
-            'generated_ideas_raw': ideas_text,
+            'generated_ideas_raw': result['generated_ideas_raw'],
         }
-        if with_critique:
-            save_result['critique'] = critique_text
+        if with_critique and 'critique' in result:
+            save_result['critique'] = result['critique']
+        if refine_iterations > 0:
+            save_result['iteration_history'] = iteration_history
+            save_result['num_refinement_iterations'] = refine_iterations
         
         with open(output_file, 'w') as f:
             json.dump(save_result, f, indent=2)
@@ -164,6 +232,7 @@ def main():
     parser.add_argument('--category', type=str, help='Category to generate ideas for')
     parser.add_argument('--num-ideas', type=int, default=5, help='Number of ideas to generate')
     parser.add_argument('--with-critique', action='store_true', help='Include self-critique step')
+    parser.add_argument('--refine', type=int, default=0, help='Number of critique-refine iterations (default: 0)')
     parser.add_argument('--list-categories', action='store_true', help='List available categories')
     parser.add_argument('--prompt-only', action='store_true', help='Just output the prompt, don\'t call LLM')
     parser.add_argument('--model', type=str, default='gpt-4o-mini', help='OpenAI model to use')
@@ -205,19 +274,31 @@ def main():
         result = llm_gen.generate_ideas(
             args.category, 
             args.num_ideas, 
-            with_critique=args.with_critique
+            with_critique=args.with_critique,
+            refine_iterations=args.refine
         )
         
         print("\n" + "="*60)
         print(f"Generated Ideas for: {args.category}")
+        if args.refine > 0:
+            print(f"(After {args.refine} refinement iteration(s))")
         print("="*60 + "\n")
         print(result['generated_ideas_raw'])
         
-        if args.with_critique:
+        if args.with_critique and 'critique' in result:
             print("\n" + "="*60)
             print("Self-Critique")
             print("="*60 + "\n")
             print(result['critique'])
+        
+        if args.refine > 0 and 'iteration_history' in result:
+            print("\n" + "="*60)
+            print("Refinement History")
+            print("="*60)
+            for item in result['iteration_history']:
+                if item['iteration'] > 0:
+                    print(f"\n--- Iteration {item['iteration']} Critique ---")
+                    print(item.get('critique', '')[:500] + "..." if len(item.get('critique', '')) > 500 else item.get('critique', ''))
         
         print(f"\n\nResults saved to: {result['output_file']}")
         
