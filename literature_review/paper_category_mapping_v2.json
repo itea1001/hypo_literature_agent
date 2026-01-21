@@ -1,0 +1,4503 @@
+{
+  "iEeiZlTbts": [
+    "RL - Multi-Agent",
+    "Safety - Adversarial Robustness",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment"
+  ],
+  "YZoGmJrOS9": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Exploration",
+    "Theory - Generalization",
+    "Method - Multi-Task Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "jIh4W7r0rn": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Generative - Autoregressive",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "JlWn80mTJi": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "Theory - Optimization",
+    "Safety - Fairness"
+  ],
+  "m5dyKArVn8": [
+    "CV - Recognition & Detection",
+    "RL - Policy Learning",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "te6VagJf6G": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "8puv3c9CPg": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Safety - Fairness",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "qrfp4eeZ47": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Video Understanding",
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "BRZYhVHvSg": [
+    "Safety - Alignment & Safety",
+    "Safety - Fairness",
+    "Application - Social Sciences"
+  ],
+  "oEKFPSOWpp": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "RL - Meta-RL",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "eHzIwAhj06": [
+    "RL - Offline RL",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "x7AD0343Jz": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Application - Biology & Medicine",
+    "Method - Few-Shot & Zero-Shot",
+    "Systems - Efficiency & Compression"
+  ],
+  "Es2Ey2tGmM": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Generative - Diffusion Models",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "MhWaMOkoN3": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "RL - Meta-RL",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation"
+  ],
+  "tBRNC6YemY": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Application - Biology & Medicine",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "yCh1z6Dcto": [
+    "CV - 3D Vision",
+    "RL - Meta-RL",
+    "Application - Neuroscience",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Audio-Visual"
+  ],
+  "XZp1uP0hh2": [
+    "Theory - Generalization"
+  ],
+  "u1b1dJtyxc": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Video Understanding",
+    "Theory - Generalization",
+    "Safety - Fairness",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "nw4TWuEPGx": [
+    "CV - Image Generation",
+    "CV - Video Understanding",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Generative - GANs",
+    "Safety - Adversarial Robustness",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Method - Continual Learning",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware",
+    "Data - Data Quality",
+    "Multi-Modal - Embodied AI"
+  ],
+  "ZdWTN2HOie": [
+    "Interpretability - Attribution",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "a560KLF3v5": [
+    "NLP - LLMs & Foundation Models",
+    "Safety - Adversarial Robustness",
+    "Safety - Alignment & Safety",
+    "Interpretability - Mechanistic"
+  ],
+  "KjNEzWRIqn": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Exploration",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data",
+    "Multi-Modal - Embodied AI"
+  ],
+  "HGNTcy4eEp": [
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Data - Datasets & Benchmarks"
+  ],
+  "aVh9KRZdRk": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "Hlcek7AYgP": [
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Interpretability - Mechanistic",
+    "Application - Neuroscience",
+    "Method - Self-Supervised Learning"
+  ],
+  "Q5RYn6jagC": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "CV - Image Generation",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "Cc0ckJlJF2": [
+    "CV - Video Understanding",
+    "Safety - Alignment & Safety",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression"
+  ],
+  "uSKzEaj9zJ": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Chemistry & Materials",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Multi-Modal - Embodied AI"
+  ],
+  "RfSvAom7sS": [
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "owuEcT6BTl": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Interpretability - Mechanistic",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "NfOFbPpYII": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "CV - 3D Vision",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "4ZH48aGD60": [
+    "RL - Policy Learning",
+    "Safety - Alignment & Safety",
+    "Application - Physics & Engineering",
+    "Method - Active Learning",
+    "Data - Data Quality",
+    "Data - Synthetic Data"
+  ],
+  "qOSFiJdVkZ": [
+    "NLP - Understanding",
+    "Theory - Optimization",
+    "Application - Neuroscience",
+    "Method - Continual Learning",
+    "Systems - Hardware"
+  ],
+  "JEflV4nRlH": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Safety - Alignment & Safety",
+    "Interpretability - Mechanistic",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Data - Synthetic Data",
+    "Multi-Modal - Embodied AI"
+  ],
+  "m6pVpdIN0y": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Data Quality"
+  ],
+  "doaJTihgIZ": [
+    "NLP - Understanding",
+    "CV - Recognition & Detection",
+    "Interpretability - Mechanistic",
+    "Application - Neuroscience",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "me1MpmENpw": [
+    "CV - 3D Vision",
+    "Safety - Fairness"
+  ],
+  "Yu7H8ZOuI2": [
+    "CV - 3D Vision",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Systems - Distributed Training"
+  ],
+  "S7THlpvH8i": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "CV - 3D Vision",
+    "RL - Offline RL",
+    "Data - Data Quality"
+  ],
+  "wm9JZq7RCe": [
+    "NLP - LLMs & Foundation Models",
+    "Application - Biology & Medicine"
+  ],
+  "M2UzLRoqic": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "RL - Offline RL",
+    "Theory - Generalization",
+    "Generative - Autoregressive",
+    "Application - Biology & Medicine",
+    "Method - Active Learning"
+  ],
+  "qo7NtGMr2u": [
+    "CV - Image Generation",
+    "RL - Multi-Agent",
+    "Generative - GANs",
+    "Application - Biology & Medicine"
+  ],
+  "3ZAfFoAcUI": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "CV - 3D Vision",
+    "RL - Policy Learning",
+    "Safety - Fairness",
+    "Systems - Efficiency & Compression",
+    "Data - Synthetic Data"
+  ],
+  "9uolDxbYLm": [
+    "CV - 3D Vision",
+    "Safety - Adversarial Robustness",
+    "Method - Active Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "UwvjJZWjPT": [
+    "CV - Recognition & Detection",
+    "Safety - Fairness",
+    "Application - Neuroscience",
+    "Method - Multi-Task Learning",
+    "Systems - Efficiency & Compression"
+  ],
+  "wDirCeTIoz": [
+    "RL - Offline RL",
+    "RL - Meta-RL",
+    "Theory - Optimization",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression",
+    "Systems - Distributed Training"
+  ],
+  "DlYNGpCuwa": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Method - Active Learning",
+    "Systems - Hardware"
+  ],
+  "1sLdprsbmk": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Data - Synthetic Data"
+  ],
+  "GxwnQ8sxkL": [
+    "NLP - Understanding",
+    "Theory - Learning Theory",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine"
+  ],
+  "dtPIUXdJHY": [
+    "Theory - Generalization",
+    "Theory - Learning Theory",
+    "Application - Biology & Medicine"
+  ],
+  "pPSWHsgqRp": [
+    "NLP - LLMs & Foundation Models",
+    "Systems - Hardware"
+  ],
+  "nF34qXcY0b": [
+    "RL - Exploration",
+    "Theory - Optimization",
+    "Safety - Adversarial Robustness",
+    "Application - Physics & Engineering"
+  ],
+  "CSjVSnvTbG": [
+    "Theory - Generalization",
+    "Application - Physics & Engineering",
+    "Data - Synthetic Data"
+  ],
+  "XHCYZNmqnv": [
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Interpretability - Concept Learning",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "HRnSVflpgt": [
+    "Graph - GNNs",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks"
+  ],
+  "8iPobEKUUA": [
+    "NLP - Generation",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "cknAewsBhD": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "CV - Video Understanding",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression"
+  ],
+  "7sACcaOmGi": [
+    "Theory - Generalization",
+    "Theory - Learning Theory",
+    "Application - Biology & Medicine"
+  ],
+  "MQIET1VfoV": [
+    "RL - Policy Learning",
+    "RL - Multi-Agent",
+    "RL - Exploration",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "yW3tlSwusb": [
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Theory - Learning Theory",
+    "Safety - Alignment & Safety",
+    "Application - Finance & Economics",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "ntlFREw59A": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "CV - Recognition & Detection",
+    "CV - Video Understanding",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Vision-Language",
+    "Multi-Modal - Embodied AI"
+  ],
+  "mXlR1FLFDc": [
+    "Theory - Generalization",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine"
+  ],
+  "hGgkdFF2hR": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "JO6T4rEJ32": [
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Distributed Training",
+    "Data - Data Quality"
+  ],
+  "3CtTMF5zzM": [
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "3BNPUDvqMt": [
+    "CV - Recognition & Detection",
+    "RL - Multi-Agent",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "pH3XAQME6c": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Safety - Alignment & Safety",
+    "Interpretability - Mechanistic",
+    "Application - Physics & Engineering"
+  ],
+  "rYs2Dmn9tD": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Multi-Agent",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Method - Active Learning",
+    "Systems - Hardware"
+  ],
+  "5bR2l1b2eh": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression"
+  ],
+  "hOcsUrOY0D": [
+    "Safety - Adversarial Robustness",
+    "Safety - Privacy",
+    "Data - Data Quality"
+  ],
+  "axW8xvQPkF": [
+    "CV - Image Generation",
+    "RL - Policy Learning",
+    "Generative - Diffusion Models",
+    "Safety - Fairness",
+    "Application - Social Sciences",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "FZQYfmsmX9": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "LxxIiInmuF": [
+    "RL - Policy Learning",
+    "RL - Multi-Agent",
+    "RL - Exploration",
+    "Application - Social Sciences"
+  ],
+  "Bj2CpB9Dey": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "LYivxMp5es": [
+    "NLP - Generation",
+    "Graph - GNNs",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience"
+  ],
+  "rniiAVjHi5": [
+    "Theory - Optimization",
+    "Safety - Fairness",
+    "Systems - Efficiency & Compression"
+  ],
+  "Actjv6Wect": [
+    "Safety - Fairness"
+  ],
+  "8B3sAX889P": [
+    "Graph - GNNs",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Method - Self-Supervised Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Data Quality"
+  ],
+  "wZgw4CrxwK": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "RL - Policy Learning",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Application - Social Sciences",
+    "Application - Finance & Economics",
+    "Data - Datasets & Benchmarks"
+  ],
+  "IfZwSRpqHl": [
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience"
+  ],
+  "bUi2xECa7w": [
+    "RL - Policy Learning",
+    "Safety - Fairness",
+    "Application - Biology & Medicine"
+  ],
+  "opdiIAHfBr": [
+    "Theory - Generalization",
+    "Safety - Alignment & Safety",
+    "Interpretability - Concept Learning",
+    "Application - Neuroscience"
+  ],
+  "lwpfH9wVkO": [
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Theory - Learning Theory",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering"
+  ],
+  "JiQXsLvDls": [
+    "Generative - VAEs & Flow"
+  ],
+  "hB5NkiET32": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "RL - Policy Learning",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Finance & Economics",
+    "Method - Active Learning",
+    "Data - Data Quality"
+  ],
+  "kK23oMGe9g": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Image Generation",
+    "RL - Offline RL",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Application - Chemistry & Materials",
+    "Application - Physics & Engineering",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "N2RaC7LO6k": [
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Application - Neuroscience",
+    "Method - Multi-Task Learning"
+  ],
+  "DAO2BFzMfy": [
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Interpretability - Concept Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "YO6GVPUrKN": [
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "FIs87Iro9j": [
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "ez7w0Ss4g9": [
+    "Theory - Generalization",
+    "Safety - Fairness",
+    "Method - Self-Supervised Learning",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware"
+  ],
+  "gcpeEg88R3": [
+    "Theory - Optimization",
+    "Application - Climate & Environment"
+  ],
+  "cuO0DenqMl": [
+    "CV - Recognition & Detection",
+    "RL - Multi-Agent",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "yKvHJJE9le": [
+    "CV - Recognition & Detection",
+    "CV - Video Understanding",
+    "Safety - Alignment & Safety",
+    "Application - Physics & Engineering",
+    "Data - Synthetic Data"
+  ],
+  "lYPAYmfQqm": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine"
+  ],
+  "C62d2nS3KO": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "7EQx56YSB2": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Image Generation",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression"
+  ],
+  "B3rZZRALhk": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Image Generation",
+    "RL - Meta-RL",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "LJNqVIKSCr": [
+    "RL - Offline RL",
+    "Safety - Fairness",
+    "Application - Chemistry & Materials",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "7Sh0XkN1KS": [
+    "Application - Biology & Medicine",
+    "Data - Data Quality"
+  ],
+  "hc9GkYw9kR": [
+    "Theory - Optimization",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "zAuerb1KGx": [
+    "CV - Recognition & Detection",
+    "RL - Policy Learning",
+    "Theory - Learning Theory",
+    "Application - Biology & Medicine"
+  ],
+  "RnvgYd9RAh": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "RL - Multi-Agent",
+    "RL - Meta-RL",
+    "Application - Biology & Medicine",
+    "Application - Finance & Economics",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "tPdJ2qHkOB": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Method - Active Learning",
+    "Systems - Hardware",
+    "Data - Data Quality"
+  ],
+  "bKOZYBJE4Z": [
+    "NLP - LLMs & Foundation Models",
+    "Application - Social Sciences",
+    "Method - Self-Supervised Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Synthetic Data"
+  ],
+  "nJvkQSu9Z5": [
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment"
+  ],
+  "BCA9NMZkLS": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Application - Biology & Medicine"
+  ],
+  "UkauUrTbxx": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Safety - Adversarial Robustness",
+    "Safety - Alignment & Safety",
+    "Application - Social Sciences"
+  ],
+  "nY0BrZdqLt": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Method - Active Learning"
+  ],
+  "Dlm6Z1RrjV": [
+    "Theory - Generalization",
+    "Interpretability - Concept Learning",
+    "Application - Climate & Environment",
+    "Multi-Modal - Embodied AI"
+  ],
+  "NhqZpst42I": [
+    "NLP - Understanding",
+    "Safety - Fairness",
+    "Application - Biology & Medicine"
+  ],
+  "aetbfmCcwg": [
+    "NLP - Generation",
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Safety - Privacy",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Data - Synthetic Data"
+  ],
+  "3zYmlmkIuK": [
+    "RL - Multi-Agent",
+    "Theory - Generalization",
+    "Theory - Learning Theory",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression"
+  ],
+  "7ESHFpqjNO": [
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Application - Climate & Environment"
+  ],
+  "fOQunr2E0T": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Systems - Distributed Training"
+  ],
+  "kQPzFiwVIu": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "RL - Policy Learning",
+    "Application - Biology & Medicine",
+    "Method - Few-Shot & Zero-Shot",
+    "Data - Synthetic Data"
+  ],
+  "f70e6YYFHF": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Graph - Applications",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering"
+  ],
+  "OcO2XakUUK": [
+    "CV - Recognition & Detection",
+    "Theory - Learning Theory",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "AbTpJl7vN6": [
+    "CV - Image Generation",
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Generative - GANs",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Method - Transfer & Domain Adaptation"
+  ],
+  "7Swrtm9Qsp": [
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Data - Data Quality",
+    "Data - Synthetic Data"
+  ],
+  "Li2rpRZWjy": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Generative - Autoregressive",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine"
+  ],
+  "A0HSmrwtLH": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "Interpretability - Concept Learning",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data",
+    "Multi-Modal - Vision-Language"
+  ],
+  "QyR1dNDxRP": [
+    "Theory - Generalization",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "wqLC4G1GN3": [
+    "CV - Image Generation",
+    "CV - 3D Vision",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience"
+  ],
+  "i5PoejmWoC": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Application - Biology & Medicine",
+    "Data - Synthetic Data"
+  ],
+  "kfdEXQu6MC": [
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "232VcN8tSx": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Offline RL",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Biology & Medicine"
+  ],
+  "e2R4WNHHGQ": [
+    "CV - Recognition & Detection",
+    "Safety - Fairness",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "z6reLFqv6w": [
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "G2dYZJO4BE": [
+    "Theory - Generalization",
+    "Safety - Alignment & Safety",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Method - Transfer & Domain Adaptation",
+    "Data - Synthetic Data"
+  ],
+  "rIOTceoNc8": [
+    "CV - Recognition & Detection",
+    "Graph - GNNs",
+    "Graph - Node/Link Prediction",
+    "Application - Neuroscience",
+    "Data - Synthetic Data"
+  ],
+  "FwhM1Zpyft": [
+    "Theory - Generalization",
+    "Safety - Alignment & Safety",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks"
+  ],
+  "Wl2optQcng": [
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Safety - Privacy",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks"
+  ],
+  "itztwTAcN6": [
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Theory - Learning Theory",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "SCEdoGghcw": [
+    "NLP - LLMs & Foundation Models",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "wDDvJzvvBR": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "CV - 3D Vision",
+    "RL - Policy Learning",
+    "RL - Multi-Agent",
+    "Theory - Generalization",
+    "Interpretability - Concept Learning",
+    "Application - Climate & Environment",
+    "Method - Self-Supervised Learning",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Audio-Visual"
+  ],
+  "DupvYqqlAG": [
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Data - Synthetic Data"
+  ],
+  "K3k4bWuNnk": [
+    "NLP - LLMs & Foundation Models",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "RQCmMSSzvI": [
+    "Safety - Fairness",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression"
+  ],
+  "TzzZ5KAEE2": [
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - GANs",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Distributed Training"
+  ],
+  "WAT3qu737X": [
+    "CV - Recognition & Detection",
+    "Theory - Learning Theory",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "QI1ScdeQjp": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "G0LfcMiRkc": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Generative - Autoregressive",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Data Quality"
+  ],
+  "SjQ1iIqpfU": [
+    "Theory - Optimization",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks"
+  ],
+  "udTwwF7tks": [
+    "NLP - Prompting & In-Context Learning",
+    "Graph - GNNs",
+    "Safety - Alignment & Safety",
+    "Interpretability - Mechanistic",
+    "Application - Chemistry & Materials",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "A7wC1CTkYl": [
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Method - Continual Learning",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "Hew2JSDycr": [
+    "NLP - LLMs & Foundation Models",
+    "Application - Biology & Medicine",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "lCj0Rvr4D6": [
+    "RL - Offline RL",
+    "Theory - Generalization"
+  ],
+  "9zQl27mqWE": [
+    "Theory - Optimization",
+    "Safety - Alignment & Safety",
+    "Safety - Fairness"
+  ],
+  "p3tSEFMwpG": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Video Understanding",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Safety - Fairness",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "KrHFICMPjm": [
+    "RL - Policy Learning",
+    "Method - Continual Learning",
+    "Systems - Efficiency & Compression"
+  ],
+  "BptJGaPn9C": [
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Systems - Efficiency & Compression",
+    "Multi-Modal - Audio-Visual"
+  ],
+  "x9eFgahVBI": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Systems - Distributed Training"
+  ],
+  "ChnJ3W4HFG": [
+    "Safety - Fairness",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "tWkL7k1u5v": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience"
+  ],
+  "9f5tOXKoMC": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Offline RL",
+    "RL - Meta-RL",
+    "Theory - Optimization",
+    "Generative - Diffusion Models",
+    "Interpretability - Concept Learning",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Method - Transfer & Domain Adaptation",
+    "Data - Datasets & Benchmarks"
+  ],
+  "JvlrUFJMbI": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "Generative - Autoregressive",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Method - Active Learning",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "LYx4w3CAgy": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Application - Biology & Medicine",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "twYE75Mnkt": [
+    "Theory - Generalization",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware"
+  ],
+  "qRnmLJQHgx": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "CV - Recognition & Detection",
+    "RL - Meta-RL",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Method - Transfer & Domain Adaptation",
+    "Method - Multi-Task Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "QEUntqKvmm": [
+    "CV - Video Understanding",
+    "RL - Policy Learning",
+    "Safety - Adversarial Robustness",
+    "Systems - Efficiency & Compression"
+  ],
+  "e6WrwIvgzX": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Method - Few-Shot & Zero-Shot",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "eJG9uDqCY9": [
+    "NLP - LLMs & Foundation Models",
+    "Generative - Autoregressive",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "mkw6x0OExg": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Interpretability - Attribution",
+    "Application - Biology & Medicine"
+  ],
+  "iF7MnXnxRw": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Application - Neuroscience",
+    "Systems - Distributed Training"
+  ],
+  "9OHXQybMZB": [
+    "Safety - Alignment & Safety",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "gN1iKwxlL5": [
+    "Method - Self-Supervised Learning"
+  ],
+  "pMaCRgu8GV": [
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "RL - Exploration",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Social Sciences"
+  ],
+  "TJsknGasMy": [
+    "RL - Offline RL",
+    "Theory - Optimization",
+    "Safety - Privacy",
+    "Application - Physics & Engineering",
+    "Data - Data Quality"
+  ],
+  "UtTjgMDTFO": [
+    "RL - Policy Learning",
+    "Application - Physics & Engineering",
+    "Data - Synthetic Data"
+  ],
+  "VajjTXRj6J": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Offline RL",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation",
+    "Method - Active Learning",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware",
+    "Data - Data Quality"
+  ],
+  "3Tzcot1LKb": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "RL - Offline RL",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks"
+  ],
+  "o3i1JEfzKw": [
+    "NLP - Understanding",
+    "RL - Policy Learning",
+    "RL - Multi-Agent",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression"
+  ],
+  "3vJbgcjgvd": [
+    "Graph - GNNs",
+    "Safety - Fairness",
+    "Application - Physics & Engineering",
+    "Application - Social Sciences",
+    "Data - Synthetic Data",
+    "Multi-Modal - Embodied AI"
+  ],
+  "8mZc259r8X": [
+    "Theory - Generalization",
+    "Theory - Learning Theory",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "fAlcxvrOEX": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Theory - Optimization",
+    "Generative - Diffusion Models",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Hardware",
+    "Data - Data Quality"
+  ],
+  "KYHVBsEHuC": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "3hcn0UxP72": [
+    "NLP - Understanding",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Hardware"
+  ],
+  "aUHSwmHRVb": [
+    "CV - Video Understanding",
+    "CV - 3D Vision",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "5PrShrKxoX": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Meta-RL",
+    "Safety - Alignment & Safety",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "zDaD8zv8tG": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization",
+    "Safety - Privacy",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine"
+  ],
+  "vBah12uVbD": [
+    "CV - Recognition & Detection"
+  ],
+  "zn6s6VQYb0": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - 3D Vision",
+    "RL - Policy Learning",
+    "Graph - GNNs",
+    "Graph - Node/Link Prediction",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "5FATPIlWUJ": [
+    "Systems - Efficiency & Compression",
+    "Data - Data Quality"
+  ],
+  "8ugOlbjJpp": [
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Safety - Privacy",
+    "Application - Biology & Medicine"
+  ],
+  "rajRJ6WKj2": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "CV - Image Generation",
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Generative - Autoregressive",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Multi-Modal - Embodied AI"
+  ],
+  "xNlQjS0dtO": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Safety - Alignment & Safety",
+    "Method - Transfer & Domain Adaptation",
+    "Data - Datasets & Benchmarks"
+  ],
+  "PAu0W5YAKC": [
+    "Application - Biology & Medicine",
+    "Multi-Modal - Embodied AI"
+  ],
+  "go4zzXBWVs": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Method - Few-Shot & Zero-Shot",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Vision-Language"
+  ],
+  "WfpvtH7oC1": [
+    "RL - Policy Learning",
+    "RL - Exploration",
+    "RL - Meta-RL",
+    "Systems - Efficiency & Compression",
+    "Multi-Modal - Embodied AI"
+  ],
+  "uOvrwVW1yA": [
+    "Theory - Generalization",
+    "Theory - Learning Theory",
+    "Application - Neuroscience",
+    "Systems - Hardware"
+  ],
+  "uvvVjWP1aj": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "p1ft33Mu3J": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Optimization",
+    "Data - Data Quality"
+  ],
+  "T6LOGZBC2m": [
+    "RL - Policy Learning",
+    "RL - Offline RL",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "fYfliutfHX": [
+    "CV - Image Generation",
+    "CV - Video Understanding",
+    "RL - Meta-RL",
+    "Generative - GANs",
+    "Safety - Adversarial Robustness",
+    "Application - Neuroscience",
+    "Method - Self-Supervised Learning",
+    "Data - Data Quality",
+    "Data - Synthetic Data"
+  ],
+  "0bFXbEMz8e": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Chemistry & Materials",
+    "Application - Climate & Environment"
+  ],
+  "V2MBWYXp63": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "RL - Policy Learning",
+    "Graph - Applications",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "ceIO1w0PmT": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Generative - Autoregressive",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Method - Self-Supervised Learning",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Vision-Language",
+    "Multi-Modal - Embodied AI"
+  ],
+  "168NLzTpw8": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Vision-Language"
+  ],
+  "k6iyUfwdI9": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Method - Active Learning",
+    "Systems - Hardware"
+  ],
+  "Fw4fBE2rqW": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering"
+  ],
+  "uEx2bSAJu8": [
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "5vZzmCeTYu": [
+    "NLP - Understanding",
+    "RL - Policy Learning",
+    "Application - Physics & Engineering",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "LDq1JPdc55": [
+    "NLP - LLMs & Foundation Models",
+    "Application - Chemistry & Materials",
+    "Application - Physics & Engineering"
+  ],
+  "Fzp1DRzCIN": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Offline RL",
+    "RL - Meta-RL",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "HsseRq2FAx": [
+    "RL - Policy Learning",
+    "RL - Exploration",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Multi-Modal - Embodied AI"
+  ],
+  "60vC1FY0dZ": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "pOJbk4Nzmi": [
+    "Theory - Optimization"
+  ],
+  "FCmWhJQ14I": [
+    "CV - Video Understanding",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Application - Climate & Environment",
+    "Systems - Hardware"
+  ],
+  "HpT19AKddu": [
+    "NLP - Understanding"
+  ],
+  "hZ0fWhgVch": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Generative - Diffusion Models",
+    "Safety - Alignment & Safety",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Systems - Efficiency & Compression",
+    "Multi-Modal - Vision-Language"
+  ],
+  "f3TUipYU3U": [
+    "NLP - LLMs & Foundation Models",
+    "Safety - Adversarial Robustness",
+    "Safety - Alignment & Safety"
+  ],
+  "0tPBk24xNj": [
+    "NLP - Understanding",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment"
+  ],
+  "LVF4P1NNwO": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Safety - Fairness"
+  ],
+  "fM9xTkpAdu": [
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware"
+  ],
+  "Gp0xZDmrA2": [
+    "RL - Exploration",
+    "Theory - Generalization"
+  ],
+  "frA0NNBS1n": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Method - Self-Supervised Learning",
+    "Systems - Hardware"
+  ],
+  "OF7e0w1uon": [
+    "RL - Exploration",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "VUTyzH63Xa": [
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Safety - Fairness",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Data Quality"
+  ],
+  "nU1mtFDtMX": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Application - Finance & Economics",
+    "Data - Datasets & Benchmarks"
+  ],
+  "0bmXrtTDUu": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization"
+  ],
+  "edHLN40DWu": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "nUVForc3VP": [
+    "Theory - Optimization"
+  ],
+  "DLTjFFiuUJ": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Data - Datasets & Benchmarks"
+  ],
+  "v1I4zRAjMb": [
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression"
+  ],
+  "eaNLvrP8n1": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "Wnni3cu39x": [
+    "Data - Datasets & Benchmarks"
+  ],
+  "Z0S6fUdW68": [
+    "RL - Offline RL",
+    "Safety - Adversarial Robustness"
+  ],
+  "fdroxYsgzQ": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation",
+    "Method - Few-Shot & Zero-Shot",
+    "Method - Self-Supervised Learning"
+  ],
+  "btYeH65fI3": [
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine"
+  ],
+  "haUOhXo70o": [
+    "RL - Meta-RL",
+    "Safety - Fairness",
+    "Method - Multi-Task Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "Ht20wtgaty": [
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Systems - Efficiency & Compression",
+    "Systems - Distributed Training"
+  ],
+  "xye7iNsgXn": [
+    "NLP - LLMs & Foundation Models",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "XwnABAdH5y": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "RL - Policy Learning",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine"
+  ],
+  "MgTzMaYHvG": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "H8pMSJwRD5": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "CV - Video Understanding",
+    "RL - Policy Learning",
+    "Generative - Diffusion Models",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "GcZjpKA37R": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Application - Biology & Medicine",
+    "Method - Few-Shot & Zero-Shot",
+    "Data - Datasets & Benchmarks"
+  ],
+  "Pte6iiXvpf": [
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment"
+  ],
+  "2NUGeV64y2": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "CV - Recognition & Detection",
+    "Generative - Diffusion Models",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine",
+    "Method - Self-Supervised Learning",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "o5SVr80Rgg": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "Bc4vZ2CX7E": [
+    "NLP - LLMs & Foundation Models",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine"
+  ],
+  "e93ffDcpH3": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression"
+  ],
+  "s5PLISyNyP": [
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment"
+  ],
+  "AwLLSlJAeJ": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Application - Climate & Environment"
+  ],
+  "7bjyambg4x": [
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Systems - Distributed Training"
+  ],
+  "h3SGdpI4Ta": [
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Physics & Engineering"
+  ],
+  "F3936hVwQa": [
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Method - Active Learning",
+    "Data - Synthetic Data"
+  ],
+  "kLZZWvqlEm": [
+    "NLP - Generation",
+    "CV - Recognition & Detection",
+    "Generative - VAEs & Flow",
+    "Application - Biology & Medicine"
+  ],
+  "BrZPj9rEpN": [
+    "RL - Policy Learning",
+    "RL - Offline RL",
+    "RL - Meta-RL",
+    "Safety - Fairness",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks"
+  ],
+  "rJVjQSQ8ye": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation"
+  ],
+  "kXHgEYFyf3": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks"
+  ],
+  "aECamk9izk": [
+    "CV - Recognition & Detection",
+    "RL - Exploration",
+    "RL - Meta-RL",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "disVlUOH4b": [
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "RL - Multi-Agent",
+    "RL - Meta-RL",
+    "Application - Social Sciences",
+    "Application - Climate & Environment",
+    "Method - Few-Shot & Zero-Shot",
+    "Systems - Efficiency & Compression"
+  ],
+  "LbcNAIgNnB": [
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine"
+  ],
+  "bfQCO9Vqhk": [
+    "RL - Policy Learning",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression"
+  ],
+  "bPsohGR6gD": [
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Theory - Learning Theory",
+    "Application - Biology & Medicine"
+  ],
+  "59MYoLghyk": [
+    "RL - Exploration",
+    "Theory - Generalization",
+    "Application - Climate & Environment"
+  ],
+  "pOgMluzEIH": [
+    "Theory - Optimization",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Systems - Distributed Training"
+  ],
+  "FoRqdsN4IA": [
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "EWt5wsEdvc": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "Application - Biology & Medicine",
+    "Method - Active Learning",
+    "Data - Data Quality"
+  ],
+  "Wp054bnPq9": [
+    "NLP - LLMs & Foundation Models",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine",
+    "Method - Active Learning"
+  ],
+  "OnOaj3g9fi": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "CV - Video Understanding",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Multi-Modal - Audio-Visual"
+  ],
+  "dVpFKfqF3R": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Method - Multi-Task Learning",
+    "Systems - Distributed Training",
+    "Multi-Modal - Embodied AI"
+  ],
+  "HTNgNt8CTJ": [
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "WUicA0hOF9": [
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine"
+  ],
+  "rTBR0eqE4G": [
+    "Theory - Generalization",
+    "Interpretability - Attribution",
+    "Data - Datasets & Benchmarks"
+  ],
+  "dMhF96PfQi": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Systems - Distributed Training"
+  ],
+  "pXaEYzrFae": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Application - Biology & Medicine"
+  ],
+  "hcASxFvmZ5": [
+    "RL - Exploration",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "M3uv4qDKOL": [
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Multi-Modal - Embodied AI"
+  ],
+  "aiz79FxjaI": [
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "5ToHnqYxjB": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "CV - Recognition & Detection",
+    "Generative - Diffusion Models",
+    "Safety - Adversarial Robustness",
+    "Interpretability - Attribution",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Hardware",
+    "Multi-Modal - Vision-Language"
+  ],
+  "pwfcwEqdUz": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Video Understanding",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering"
+  ],
+  "cPsn9AcOYh": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "1tRLxQzdep": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Method - Few-Shot & Zero-Shot",
+    "Systems - Efficiency & Compression"
+  ],
+  "qAml3FpfhG": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Data - Datasets & Benchmarks"
+  ],
+  "2pYTCy4GUV": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Data - Data Quality"
+  ],
+  "Yn8xnK90mS": [
+    "Theory - Optimization",
+    "Data - Data Quality"
+  ],
+  "eJFQROkaj0": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "PlVjIGaFdH": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Image Generation",
+    "RL - Multi-Agent",
+    "Generative - Diffusion Models",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "1RZKuvqYCR": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "RL - Policy Learning",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "FOJE1kRcHG": [
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Video Understanding",
+    "RL - Policy Learning",
+    "RL - Exploration",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Neuroscience"
+  ],
+  "N6A6t6xlKm": [
+    "CV - 3D Vision",
+    "Theory - Optimization",
+    "Application - Neuroscience",
+    "Systems - Hardware"
+  ],
+  "XTglHJjzQI": [
+    "Theory - Generalization",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience"
+  ],
+  "hG6gddAKnJ": [
+    "CV - Video Understanding",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "CbbTF6tDhW": [
+    "Theory - Optimization",
+    "Safety - Fairness",
+    "Data - Datasets & Benchmarks"
+  ],
+  "kMBvZ40Iu9": [
+    "Interpretability - Concept Learning",
+    "Application - Physics & Engineering",
+    "Method - Self-Supervised Learning",
+    "Data - Synthetic Data"
+  ],
+  "vye4OgLaTy": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Video Understanding",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation",
+    "Data - Datasets & Benchmarks"
+  ],
+  "l6Hef6FVd0": [
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression",
+    "Data - Data Quality"
+  ],
+  "MrNq6rbcUi": [
+    "Safety - Adversarial Robustness",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware"
+  ],
+  "RvwMTDYTOb": [
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "fNJbcxhxRj": [
+    "RL - Multi-Agent",
+    "Application - Physics & Engineering"
+  ],
+  "m4dO5L6eCp": [
+    "Application - Biology & Medicine"
+  ],
+  "tu5fCCuua2": [
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "dFEeI51O5j": [
+    "Theory - Generalization",
+    "Interpretability - Attribution",
+    "Application - Chemistry & Materials",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Method - Self-Supervised Learning",
+    "Multi-Modal - Embodied AI"
+  ],
+  "3AuoStfUIH": [
+    "RL - Offline RL",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "Yug1IEkvcb": [
+    "RL - Policy Learning",
+    "RL - Offline RL",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering"
+  ],
+  "DYN66IJCI9": [
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Data - Synthetic Data"
+  ],
+  "uQiFsBil3p": [
+    "RL - Policy Learning",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "TuALw8xVum": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - GANs",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering"
+  ],
+  "1sRuv4cnuZ": [
+    "Graph - GNNs",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "ngcZhfXCBW": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Method - Active Learning",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality",
+    "Data - Synthetic Data"
+  ],
+  "jdRIaUu3xY": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Safety - Privacy",
+    "Method - Self-Supervised Learning",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware",
+    "Data - Data Quality"
+  ],
+  "QAGRPiC3FS": [
+    "NLP - LLMs & Foundation Models",
+    "Safety - Adversarial Robustness",
+    "Safety - Alignment & Safety",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Systems - Distributed Training",
+    "Systems - Hardware"
+  ],
+  "pVyOchWUBa": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Theory - Learning Theory",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Method - Few-Shot & Zero-Shot"
+  ],
+  "ghYrfdJfjK": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Policy Learning",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "64I29YeQdt": [
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware"
+  ],
+  "cMige5MK1N": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Safety - Privacy",
+    "Safety - Fairness",
+    "Application - Biology & Medicine"
+  ],
+  "Gp5F6qzwGK": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Policy Learning",
+    "RL - Offline RL",
+    "RL - Exploration",
+    "Safety - Fairness",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks"
+  ],
+  "B1W712hMBi": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Application - Biology & Medicine",
+    "Method - Active Learning",
+    "Data - Data Quality",
+    "Data - Synthetic Data"
+  ],
+  "FYQIgQWH3d": [
+    "NLP - LLMs & Foundation Models",
+    "CV - 3D Vision",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "vGHOFeUQi8": [
+    "Generative - Autoregressive",
+    "Safety - Fairness",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "oRLwyayrh1": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "CV - Recognition & Detection",
+    "CV - 3D Vision",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Method - Self-Supervised Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "37xFIeYgE0": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Multi-Agent",
+    "Application - Biology & Medicine",
+    "Application - Social Sciences",
+    "Systems - Hardware"
+  ],
+  "nDps3Q8j2l": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Video Understanding",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "2cXzNDe614": [
+    "Graph - GNNs",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Application - Finance & Economics"
+  ],
+  "5kGfm3Pa41": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Safety - Fairness",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "9U29U3cDKq": [
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Data - Data Quality"
+  ],
+  "8ERo4jph0A": [
+    "CV - Recognition & Detection",
+    "Safety - Adversarial Robustness",
+    "Interpretability - Attribution",
+    "Data - Datasets & Benchmarks"
+  ],
+  "5kXNMDpUVF": [
+    "Safety - Privacy",
+    "Data - Datasets & Benchmarks"
+  ],
+  "JNN6QHhLHB": [
+    "Method - Transfer & Domain Adaptation"
+  ],
+  "17ZwoHl65h": [
+    "CV - Image Generation",
+    "RL - Policy Learning",
+    "RL - Multi-Agent",
+    "RL - Offline RL",
+    "Generative - Diffusion Models",
+    "Application - Physics & Engineering",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "ia5XvxFUJT": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Multi-Agent",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Systems - Distributed Training",
+    "Systems - Hardware"
+  ],
+  "FQQ4476dT2": [
+    "CV - Video Understanding",
+    "RL - Multi-Agent",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks"
+  ],
+  "Ln3moCobjO": [
+    "CV - 3D Vision",
+    "Safety - Fairness",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality",
+    "Data - Synthetic Data"
+  ],
+  "c0LoolDFw4": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization",
+    "Interpretability - Concept Learning",
+    "Application - Physics & Engineering"
+  ],
+  "o8AaRKbP9K": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Optimization",
+    "Safety - Fairness",
+    "Method - Few-Shot & Zero-Shot",
+    "Data - Synthetic Data"
+  ],
+  "XLlQb24X2o": [
+    "CV - Image Generation",
+    "RL - Meta-RL",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation"
+  ],
+  "5NTTCCO74S": [
+    "CV - Recognition & Detection",
+    "RL - Policy Learning",
+    "Theory - Generalization"
+  ],
+  "L0VoOdjCUb": [
+    "CV - 3D Vision",
+    "Systems - Hardware"
+  ],
+  "GqsRKEhelH": [
+    "CV - Recognition & Detection",
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "7uwLvFvpis": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Method - Self-Supervised Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "wmljUnbjy6": [
+    "CV - Recognition & Detection",
+    "Graph - Node/Link Prediction",
+    "Safety - Adversarial Robustness",
+    "Application - Neuroscience"
+  ],
+  "MWZWUyfFHC": [
+    "NLP - LLMs & Foundation Models",
+    "Safety - Privacy",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression"
+  ],
+  "beXQVQorse": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression"
+  ],
+  "NeotatlYOL": [
+    "NLP - LLMs & Foundation Models",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "9ZkUFSwlUH": [
+    "CV - Video Understanding",
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Data - Synthetic Data"
+  ],
+  "Rp8R9C0Sth": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization"
+  ],
+  "efzkSbpyRw": [
+    "Theory - Generalization",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "hKdJPMQvew": [
+    "CV - Recognition & Detection",
+    "RL - Meta-RL",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Method - Transfer & Domain Adaptation",
+    "Method - Active Learning",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "DkqiId4AuR": [
+    "NLP - LLMs & Foundation Models",
+    "Safety - Alignment & Safety",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Application - Social Sciences",
+    "Multi-Modal - Vision-Language"
+  ],
+  "a9bzTv9SzO": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "CV - Video Understanding",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality",
+    "Data - Synthetic Data"
+  ],
+  "a2uFstsHPb": [
+    "Method - Multi-Task Learning",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks"
+  ],
+  "OS0szhkPmF": [
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Method - Transfer & Domain Adaptation",
+    "Method - Self-Supervised Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "VyoY3Wh9Wd": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "st2BTty53v": [
+    "NLP - Generation",
+    "CV - Recognition & Detection",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Application - Social Sciences"
+  ],
+  "Bq2THeNXRr": [
+    "NLP - LLMs & Foundation Models",
+    "Interpretability - Concept Learning"
+  ],
+  "YNbCbcGyXE": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Application - Biology & Medicine"
+  ],
+  "CgO2cuWWLV": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Method - Active Learning",
+    "Data - Data Quality"
+  ],
+  "0ksNeD1SJT": [
+    "RL - Meta-RL",
+    "Safety - Alignment & Safety"
+  ],
+  "7tyAO5tUF8": [
+    "Safety - Fairness",
+    "Interpretability - Concept Learning",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression"
+  ],
+  "RbiBKPtuHp": [
+    "NLP - LLMs & Foundation Models"
+  ],
+  "t82Y3fmRtk": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "RL - Exploration",
+    "Method - Active Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Data Quality"
+  ],
+  "DWT9uiGjxT": [
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Method - Multi-Task Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "FSxTEvuFa7": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Multi-Modal - Embodied AI"
+  ],
+  "M4Htd52HMH": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Graph - Applications",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Method - Self-Supervised Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "sF9epWkNUG": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Video Understanding",
+    "CV - 3D Vision",
+    "RL - Policy Learning",
+    "RL - Multi-Agent",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Method - Few-Shot & Zero-Shot",
+    "Method - Active Learning",
+    "Systems - Distributed Training"
+  ],
+  "v7I5FtL2pV": [
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Safety - Alignment & Safety"
+  ],
+  "p1kDNFs62o": [
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "Method - Self-Supervised Learning"
+  ],
+  "qGEEso256L": [
+    "NLP - Generation",
+    "CV - 3D Vision",
+    "Graph - Applications",
+    "Application - Biology & Medicine",
+    "Application - Chemistry & Materials",
+    "Application - Climate & Environment",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "fVg9YrSllr": [
+    "Data - Datasets & Benchmarks"
+  ],
+  "9yADTDHgGu": [
+    "RL - Meta-RL",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Method - Transfer & Domain Adaptation",
+    "Systems - Efficiency & Compression"
+  ],
+  "Lg8nw3ltvX": [
+    "Application - Neuroscience",
+    "Method - Continual Learning"
+  ],
+  "CHz7WshPcp": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Video Understanding",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Data - Synthetic Data"
+  ],
+  "vYYIuJDTHq": [
+    "Systems - Efficiency & Compression"
+  ],
+  "sDjszMb2Ir": [
+    "NLP - LLMs & Foundation Models",
+    "Systems - Efficiency & Compression",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "MsnJl6JkZS": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Image Generation",
+    "CV - Recognition & Detection",
+    "Generative - Diffusion Models",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine"
+  ],
+  "87ZrVHDqmR": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "CV - Video Understanding",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Vision-Language"
+  ],
+  "LWRI4uPG2X": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "1xKgDANODx": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "CV - Image Generation",
+    "CV - 3D Vision",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "elF0QoBSFV": [
+    "CV - Video Understanding",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks"
+  ],
+  "F3Ds71Xgo1": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Exploration",
+    "Application - Biology & Medicine",
+    "Application - Chemistry & Materials",
+    "Data - Datasets & Benchmarks"
+  ],
+  "vsOF7qDNhl": [
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Data - Data Quality"
+  ],
+  "yhpDKSw7yA": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "e0SKaKEEdr": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Multi-Agent",
+    "Theory - Optimization",
+    "Application - Neuroscience",
+    "Systems - Hardware"
+  ],
+  "LJ34pX1U5g": [
+    "Safety - Privacy",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation"
+  ],
+  "Pbey7LqBRl": [
+    "NLP - Prompting & In-Context Learning",
+    "Graph - GNNs",
+    "Application - Chemistry & Materials",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Data - Synthetic Data"
+  ],
+  "CEfr3h68KU": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - 3D Vision",
+    "RL - Offline RL",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Interpretability - Mechanistic",
+    "Systems - Efficiency & Compression"
+  ],
+  "ZwrfsrCduj": [
+    "CV - Video Understanding",
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering"
+  ],
+  "OnkA4zaEU9": [
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Optimization",
+    "Systems - Distributed Training"
+  ],
+  "QhqQJqe0Wq": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "geajNKab7g": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "JVhUR8q27o": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Data - Synthetic Data"
+  ],
+  "1YsQI04KaN": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine"
+  ],
+  "LO4xhXmFal": [
+    "NLP - LLMs & Foundation Models",
+    "Data - Datasets & Benchmarks"
+  ],
+  "RPMTNGMq0O": [
+    "Theory - Optimization",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Data - Data Quality"
+  ],
+  "nvHlHfjJPe": [
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine"
+  ],
+  "9zlZuAAb08": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks"
+  ],
+  "QBj7Uurdwf": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Method - Self-Supervised Learning",
+    "Systems - Distributed Training",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "CaxQ5IbHgF": [
+    "CV - Image Generation",
+    "Theory - Optimization",
+    "Graph - GNNs",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine"
+  ],
+  "rMV86cAOh6": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "ohH3sbUue2": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine"
+  ],
+  "HrzQZXzrN2": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Policy Learning",
+    "Application - Biology & Medicine",
+    "Data - Synthetic Data"
+  ],
+  "SlRcJvf1yd": [
+    "RL - Meta-RL",
+    "Theory - Optimization",
+    "Safety - Adversarial Robustness",
+    "Safety - Fairness"
+  ],
+  "9DMMvMTDur": [
+    "RL - Policy Learning",
+    "RL - Meta-RL",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Data - Synthetic Data",
+    "Multi-Modal - Embodied AI"
+  ],
+  "uku9r6RROl": [
+    "NLP - Generation",
+    "RL - Policy Learning",
+    "RL - Meta-RL",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Method - Few-Shot & Zero-Shot"
+  ],
+  "6Zl9rv6PDx": [
+    "NLP - Understanding",
+    "RL - Offline RL",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data",
+    "Multi-Modal - Embodied AI"
+  ],
+  "aP0H8A1ywk": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "RL - Policy Learning",
+    "Theory - Generalization"
+  ],
+  "4Vqr8SRfyX": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "biE1uHyG0l": [
+    "Theory - Generalization",
+    "Systems - Distributed Training"
+  ],
+  "cXs5md5wAq": [
+    "NLP - Generation",
+    "NLP - Understanding",
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Generative - GANs",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data",
+    "Multi-Modal - Embodied AI"
+  ],
+  "rhgIgTSSxW": [
+    "CV - Recognition & Detection",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "kKRbAY4CXv": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression"
+  ],
+  "ApjY32f3Xr": [
+    "CV - 3D Vision",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "eUgS9Ig8JG": [
+    "Graph - GNNs",
+    "Safety - Fairness",
+    "Application - Neuroscience",
+    "Application - Finance & Economics",
+    "Multi-Modal - Embodied AI"
+  ],
+  "mnyXZBa5dP": [
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Multi-Modal - Embodied AI"
+  ],
+  "fMX07g3prp": [
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "qBL04XXex6": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Exploration",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks"
+  ],
+  "H9DYMIpz9c": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Generative - Autoregressive",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "rp5vfyp5Np": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "CV - Video Understanding",
+    "RL - Policy Learning",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine",
+    "Multi-Modal - Embodied AI"
+  ],
+  "miGpIhquyB": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "SMZnJtkNX5": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Video Understanding",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Systems - Distributed Training",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "6AtXCnHCFy": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "9ceadCJY4B": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "BXYZvcgVUv": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "CV - Recognition & Detection",
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Graph - Node/Link Prediction",
+    "Graph - Applications",
+    "Method - Few-Shot & Zero-Shot",
+    "Data - Datasets & Benchmarks"
+  ],
+  "gYcft1HIaU": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Graph - Applications",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "10eQ4Cfh8p": [
+    "NLP - Generation",
+    "RL - Policy Learning",
+    "Application - Biology & Medicine",
+    "Method - Continual Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "NFqFA2vCQV": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "CV - Video Understanding",
+    "RL - Meta-RL",
+    "Safety - Alignment & Safety",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Vision-Language"
+  ],
+  "BQvbL2sFQx": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "RL - Meta-RL",
+    "Application - Neuroscience",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "eR4W9tnJoZ": [
+    "NLP - Generation",
+    "NLP - Understanding",
+    "CV - Video Understanding",
+    "RL - Exploration",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression"
+  ],
+  "jx6njBKH8E": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Safety - Adversarial Robustness",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "rGvDRT4Z60": [
+    "Safety - Privacy",
+    "Safety - Fairness",
+    "Application - Finance & Economics",
+    "Data - Datasets & Benchmarks"
+  ],
+  "w73feIekdO": [
+    "CV - Recognition & Detection",
+    "CV - Video Understanding",
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Application - Physics & Engineering",
+    "Systems - Hardware",
+    "Data - Synthetic Data"
+  ],
+  "kmn0BhQk7p": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Safety - Adversarial Robustness",
+    "Safety - Privacy",
+    "Safety - Alignment & Safety",
+    "Data - Datasets & Benchmarks"
+  ],
+  "p4B7rl1UFA": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Optimization",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware"
+  ],
+  "cQgjz0mf0r": [
+    "Theory - Generalization",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Data - Data Quality"
+  ],
+  "i8PjQT3Uig": [
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Method - Continual Learning",
+    "Systems - Efficiency & Compression",
+    "Multi-Modal - Embodied AI"
+  ],
+  "e47RxA52sT": [
+    "CV - 3D Vision",
+    "Safety - Fairness",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality",
+    "Data - Synthetic Data"
+  ],
+  "JWrl5pJCnl": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "CV - Image Generation",
+    "CV - Recognition & Detection",
+    "RL - Policy Learning",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Method - Few-Shot & Zero-Shot",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data",
+    "Multi-Modal - Vision-Language",
+    "Multi-Modal - Embodied AI"
+  ],
+  "uvYgx8raPO": [
+    "Theory - Optimization"
+  ],
+  "jUNSBetmAo": [
+    "Theory - Generalization",
+    "Safety - Alignment & Safety",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "7QlKLvfVge": [
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Interpretability - Mechanistic",
+    "Systems - Efficiency & Compression"
+  ],
+  "yacRhge4zQ": [
+    "CV - Recognition & Detection",
+    "RL - Policy Learning",
+    "RL - Multi-Agent",
+    "Safety - Privacy",
+    "Safety - Fairness",
+    "Application - Social Sciences"
+  ],
+  "rEQ8OiBxbZ": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "CV - 3D Vision",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Application - Chemistry & Materials",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Method - Self-Supervised Learning",
+    "Data - Data Quality"
+  ],
+  "UVSKuh9eK5": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Vision-Language"
+  ],
+  "1XHzHMQfcK": [
+    "RL - Policy Learning",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Systems - Distributed Training"
+  ],
+  "23OEmHVkpq": [
+    "CV - Image Generation",
+    "CV - 3D Vision",
+    "Generative - GANs",
+    "Generative - VAEs & Flow"
+  ],
+  "iS7c9lkXuF": [
+    "CV - Recognition & Detection",
+    "CV - 3D Vision",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality",
+    "Data - Synthetic Data"
+  ],
+  "E5CMyG6jl0": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Safety - Alignment & Safety",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "AOSsLRKQrX": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Video Understanding",
+    "RL - Meta-RL",
+    "Safety - Alignment & Safety",
+    "Interpretability - Concept Learning",
+    "Application - Climate & Environment",
+    "Method - Few-Shot & Zero-Shot",
+    "Systems - Hardware"
+  ],
+  "uEYxHVQJF4": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "1FWDEIGm33": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Social Sciences",
+    "Data - Datasets & Benchmarks"
+  ],
+  "hxAveMWogn": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "CV - Video Understanding",
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "dYjuJGTEbc": [
+    "Theory - Optimization",
+    "Theory - Generalization"
+  ],
+  "hcXfzlmg7Y": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "kIZcruKmBg": [
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience"
+  ],
+  "eepoE7iLpL": [
+    "Application - Biology & Medicine",
+    "Application - Chemistry & Materials",
+    "Application - Neuroscience",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "hLT9cW4Afz": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Data - Datasets & Benchmarks"
+  ],
+  "iQHL76NqJT": [
+    "CV - Recognition & Detection",
+    "Graph - GNNs",
+    "Graph - Node/Link Prediction",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "ISq7Hnln0t": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Method - Self-Supervised Learning"
+  ],
+  "7Rf2j94H1x": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "RL - Policy Learning",
+    "RL - Exploration",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression"
+  ],
+  "jXR5pjs1rV": [
+    "NLP - LLMs & Foundation Models",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "lK2V2E2MNv": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Multi-Modal - Vision-Language"
+  ],
+  "3wL1tj3kqE": [
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Safety - Fairness",
+    "Application - Biology & Medicine"
+  ],
+  "9L9j5bQPIY": [
+    "Interpretability - Mechanistic",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "gtkFw6sZGS": [
+    "NLP - LLMs & Foundation Models",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "7vVWiCrFnd": [
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "U2To7z3JOw": [
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Graph - Node/Link Prediction",
+    "Method - Self-Supervised Learning",
+    "Systems - Efficiency & Compression"
+  ],
+  "lNIj5FdXsC": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Multi-Agent",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Safety - Fairness",
+    "Application - Neuroscience",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks"
+  ],
+  "bDWXhzZT40": [
+    "CV - Recognition & Detection",
+    "RL - Meta-RL",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Method - Transfer & Domain Adaptation",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "DwcV654WBP": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Video Understanding",
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Method - Few-Shot & Zero-Shot",
+    "Data - Datasets & Benchmarks"
+  ],
+  "SLw9fp4yI6": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "Safety - Alignment & Safety",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks"
+  ],
+  "fI6TkT050a": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "CV - Recognition & Detection",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "efxXzrbgrX": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine",
+    "Systems - Hardware"
+  ],
+  "My7lkRNnL9": [
+    "NLP - Understanding",
+    "Safety - Alignment & Safety",
+    "Interpretability - Concept Learning",
+    "Application - Neuroscience"
+  ],
+  "xibcBSuuq0": [
+    "RL - Policy Learning",
+    "RL - Multi-Agent",
+    "RL - Exploration",
+    "Theory - Optimization",
+    "Interpretability - Concept Learning",
+    "Application - Social Sciences",
+    "Data - Datasets & Benchmarks"
+  ],
+  "RKw6AzP2BY": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Systems - Hardware"
+  ],
+  "B0wJ5oCPdB": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks"
+  ],
+  "IefMMX12yk": [
+    "CV - Recognition & Detection",
+    "Graph - GNNs",
+    "Graph - Node/Link Prediction",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "pYmQId95iR": [
+    "NLP - Understanding",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks"
+  ],
+  "xVoj8AtyQ1": [
+    "NLP - LLMs & Foundation Models",
+    "Method - Active Learning",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "AZGIwqCyYY": [
+    "NLP - Understanding",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience"
+  ],
+  "Q3aKBKCqG8": [
+    "NLP - LLMs & Foundation Models",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "J562Q8Hjut": [
+    "CV - Recognition & Detection",
+    "Data - Datasets & Benchmarks"
+  ],
+  "b0IRscfEOb": [
+    "NLP - Understanding",
+    "Graph - Applications",
+    "Safety - Alignment & Safety",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "BTKAeLqLMw": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Safety - Alignment & Safety",
+    "Application - Physics & Engineering"
+  ],
+  "AJBkfwXh3u": [
+    "CV - Video Understanding",
+    "Graph - GNNs",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Method - Self-Supervised Learning",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "tmsqb6WpLz": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Method - Transfer & Domain Adaptation",
+    "Method - Continual Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "RpKA1wqgk0": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Method - Few-Shot & Zero-Shot",
+    "Data - Datasets & Benchmarks"
+  ],
+  "xNdE7RiRyP": [
+    "NLP - LLMs & Foundation Models",
+    "Safety - Privacy",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression"
+  ],
+  "TPZRq4FALB": [
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Safety - Fairness",
+    "Method - Transfer & Domain Adaptation",
+    "Data - Datasets & Benchmarks"
+  ],
+  "UPyLDIVBNP": [
+    "Theory - Optimization",
+    "Safety - Alignment & Safety",
+    "Safety - Fairness",
+    "Interpretability - Mechanistic",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "30L0rr9W8A": [
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Safety - Alignment & Safety",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression",
+    "Data - Synthetic Data"
+  ],
+  "78iGZdqxYY": [
+    "CV - Recognition & Detection",
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "NqpdT8DwGc": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "RL - Meta-RL",
+    "Safety - Adversarial Robustness",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Method - Transfer & Domain Adaptation",
+    "Method - Active Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "mYOYjhXGop": [
+    "NLP - Generation",
+    "CV - Recognition & Detection",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Method - Active Learning",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "D6Htk1rwkK": [
+    "NLP - Understanding",
+    "Safety - Adversarial Robustness",
+    "Safety - Alignment & Safety",
+    "Interpretability - Mechanistic",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "k65Nh7IV6X": [
+    "NLP - Generation",
+    "CV - Video Understanding",
+    "Theory - Generalization",
+    "Interpretability - Mechanistic",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "9k0krNzvlV": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware"
+  ],
+  "n1LiKueC4F": [
+    "NLP - Generation",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Method - Active Learning"
+  ],
+  "D0zeqL7Vnz": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "Generative - Autoregressive",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Method - Few-Shot & Zero-Shot",
+    "Method - Active Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "RAwfHdvisZ": [
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Method - Self-Supervised Learning",
+    "Multi-Modal - Embodied AI"
+  ],
+  "elMKXvhhQ9": [
+    "Graph - GNNs",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "QAq5JTFJmp": [
+    "RL - Meta-RL",
+    "Safety - Alignment & Safety",
+    "Systems - Efficiency & Compression"
+  ],
+  "O3BaKCxTAO": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "Iyve2ycvGZ": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "CV - Image Generation",
+    "RL - Multi-Agent",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression"
+  ],
+  "j7S7o6ROn9": [
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression"
+  ],
+  "7Yg5eylBHe": [
+    "RL - Multi-Agent",
+    "Theory - Optimization",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Systems - Distributed Training"
+  ],
+  "fGskrC9Wy1": [
+    "NLP - Understanding",
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Application - Neuroscience"
+  ],
+  "Xsrsj3cne4": [
+    "Graph - GNNs",
+    "Generative - Diffusion Models",
+    "Safety - Adversarial Robustness",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "wlRp8IdLkN": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "M11LONBkx1": [
+    "CV - Image Generation",
+    "CV - Recognition & Detection",
+    "Graph - GNNs",
+    "Graph - Node/Link Prediction",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Synthetic Data"
+  ],
+  "2wwPG1wpsu": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "6ARlSgun7J": [
+    "CV - Recognition & Detection",
+    "RL - Meta-RL",
+    "Theory - Generalization",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "OpWg0ldkcB": [
+    "NLP - LLMs & Foundation Models",
+    "CV - 3D Vision",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience"
+  ],
+  "LegZeFYugN": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "4IxtmklIym": [
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Chemistry & Materials",
+    "Application - Physics & Engineering",
+    "Method - Active Learning",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality",
+    "Multi-Modal - Embodied AI"
+  ],
+  "lmYGRGyL4i": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "Generative - Diffusion Models",
+    "Generative - Autoregressive",
+    "Application - Biology & Medicine",
+    "Application - Chemistry & Materials",
+    "Method - Few-Shot & Zero-Shot",
+    "Data - Datasets & Benchmarks"
+  ],
+  "kunueR6cZU": [
+    "CV - Video Understanding",
+    "RL - Exploration",
+    "Theory - Generalization"
+  ],
+  "P2gnDEHGu3": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Interpretability - Mechanistic",
+    "Interpretability - Attribution",
+    "Application - Biology & Medicine",
+    "Systems - Hardware"
+  ],
+  "0JTwZ30qPH": [
+    "RL - Meta-RL",
+    "Data - Datasets & Benchmarks"
+  ],
+  "ILStlRb1Sp": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Systems - Hardware"
+  ],
+  "Hm6maU150b": [
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Systems - Distributed Training"
+  ],
+  "hujS6bmduD": [
+    "CV - Image Generation",
+    "CV - Recognition & Detection",
+    "RL - Exploration",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "Ebt7JgMHv1": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Theory - Generalization",
+    "Interpretability - Mechanistic",
+    "Systems - Distributed Training",
+    "Systems - Hardware",
+    "Multi-Modal - Embodied AI"
+  ],
+  "qgyLAr2cOs": [
+    "Theory - Learning Theory",
+    "Application - Physics & Engineering",
+    "Data - Synthetic Data"
+  ],
+  "YItWKZci78": [
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Physics & Engineering",
+    "Data - Synthetic Data",
+    "Multi-Modal - Embodied AI"
+  ],
+  "RvmrhrPy7j": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Generative - Diffusion Models"
+  ],
+  "030cjlZm4a": [
+    "Safety - Fairness",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine"
+  ],
+  "Rd4pGjTcTj": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "bSlAUCyY4T": [
+    "RL - Policy Learning",
+    "RL - Exploration",
+    "Graph - Applications",
+    "Application - Biology & Medicine"
+  ],
+  "ukmh3mWFf0": [
+    "CV - 3D Vision",
+    "Theory - Optimization",
+    "Graph - GNNs",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "l18hiEXRJS": [
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Application - Neuroscience",
+    "Systems - Hardware"
+  ],
+  "cwN69teRIW": [
+    "NLP - Prompting & In-Context Learning",
+    "Safety - Privacy",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Method - Continual Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "lF2aip4Scn": [
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression"
+  ],
+  "jFiFmHrIfD": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Method - Self-Supervised Learning",
+    "Method - Active Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "TvkvWjxj3T": [
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Image Generation",
+    "CV - 3D Vision",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine"
+  ],
+  "xVBXz7wD2m": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Meta-RL",
+    "Method - Multi-Task Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "3sOE3MFepx": [
+    "CV - Image Generation",
+    "CV - Video Understanding",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks"
+  ],
+  "wlqkRFRkYc": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "Graph - Applications",
+    "Method - Few-Shot & Zero-Shot",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Vision-Language"
+  ],
+  "2Pup7olzxj": [
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Chemistry & Materials",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment"
+  ],
+  "vESNKdEMGp": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Prompting & In-Context Learning",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Method - Active Learning",
+    "Systems - Hardware"
+  ],
+  "DZ6B5u4vfe": [
+    "NLP - LLMs & Foundation Models",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "RIaIpdUCPb": [
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - GANs",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "i1bBVKRVb5": [
+    "CV - Recognition & Detection",
+    "RL - Policy Learning",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware"
+  ],
+  "PuCno7nwgH": [
+    "NLP - Understanding",
+    "Graph - GNNs",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "csukJcpYDe": [
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "RzNlECeoOB": [
+    "NLP - Generation",
+    "Generative - VAEs & Flow",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "JBLHIR8kBZ": [
+    "NLP - LLMs & Foundation Models",
+    "Interpretability - Mechanistic",
+    "Interpretability - Attribution",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "yGdoTL9g18": [
+    "CV - 3D Vision",
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "Pp8Kb4hejU": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "RL - Policy Learning",
+    "RL - Offline RL",
+    "Theory - Generalization",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "FI0vOp2asx": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - 3D Vision",
+    "RL - Multi-Agent",
+    "RL - Exploration",
+    "Theory - Generalization",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "v6a1pXXADC": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "Safety - Adversarial Robustness",
+    "Interpretability - Concept Learning",
+    "Application - Biology & Medicine",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "6yJuDK1DsK": [
+    "CV - 3D Vision",
+    "RL - Meta-RL",
+    "Application - Biology & Medicine",
+    "Method - Transfer & Domain Adaptation",
+    "Method - Continual Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "GrunXMbdXY": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "RL - Offline RL",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Systems - Efficiency & Compression",
+    "Systems - Hardware",
+    "Data - Data Quality"
+  ],
+  "UTGv8CayNt": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Multi-Modal - Embodied AI"
+  ],
+  "4dw16l4iqC": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "Data - Datasets & Benchmarks"
+  ],
+  "nTwb2vBLOV": [
+    "RL - Multi-Agent",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "bUv5gJAAxH": [
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Safety - Fairness",
+    "Application - Neuroscience"
+  ],
+  "QqqkskOFO9": [
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Theory - Generalization"
+  ],
+  "FMMF1a9ifL": [
+    "Application - Biology & Medicine",
+    "Application - Chemistry & Materials",
+    "Application - Neuroscience",
+    "Application - Climate & Environment",
+    "Method - Transfer & Domain Adaptation",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "buC4E91xZE": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Image Generation",
+    "CV - Recognition & Detection",
+    "Generative - GANs",
+    "Safety - Privacy",
+    "Application - Biology & Medicine",
+    "Method - Few-Shot & Zero-Shot",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Vision-Language"
+  ],
+  "6SNyuiph3F": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "Safety - Alignment & Safety",
+    "Method - Continual Learning"
+  ],
+  "nOf6sb63dT": [
+    "NLP - Generation",
+    "Application - Biology & Medicine",
+    "Systems - Hardware"
+  ],
+  "uxFme785fq": [
+    "Safety - Privacy",
+    "Application - Physics & Engineering",
+    "Data - Data Quality",
+    "Data - Synthetic Data"
+  ],
+  "uGtfk2OphU": [
+    "RL - Policy Learning",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "tgjGR7eY5H": [
+    "NLP - Prompting & In-Context Learning",
+    "RL - Exploration",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Neuroscience",
+    "Method - Few-Shot & Zero-Shot",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "SRn2o3ij25": [
+    "NLP - Prompting & In-Context Learning",
+    "CV - Recognition & Detection",
+    "RL - Meta-RL",
+    "Safety - Fairness",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "LojXXo2xaf": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Interpretability - Concept Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "0Z6lN4GYrO": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Safety - Fairness",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "KTtEICH4TO": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Video Understanding",
+    "CV - 3D Vision",
+    "RL - Policy Learning",
+    "RL - Meta-RL",
+    "Application - Biology & Medicine",
+    "Application - Chemistry & Materials",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Method - Few-Shot & Zero-Shot",
+    "Systems - Distributed Training",
+    "Multi-Modal - Embodied AI"
+  ],
+  "5JWAOLBxwp": [
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Interpretability - Mechanistic",
+    "Application - Neuroscience"
+  ],
+  "og8yJ0wuz3": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "Method - Self-Supervised Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "8tGu1pNUnN": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "Application - Chemistry & Materials",
+    "Application - Neuroscience",
+    "Systems - Hardware",
+    "Data - Datasets & Benchmarks"
+  ],
+  "GxrVyYoLSx": [
+    "Safety - Fairness",
+    "Data - Data Quality"
+  ],
+  "AqN23oqraW": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization",
+    "Safety - Fairness",
+    "Method - Self-Supervised Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "6rvliexcMV": [
+    "CV - Image Generation",
+    "Theory - Generalization",
+    "Generative - GANs",
+    "Interpretability - Mechanistic",
+    "Application - Neuroscience"
+  ],
+  "6ZE9Zktbh6": [
+    "Safety - Adversarial Robustness",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "hv3SklibkL": [
+    "CV - Recognition & Detection",
+    "CV - 3D Vision",
+    "RL - Multi-Agent",
+    "Theory - Generalization",
+    "Graph - GNNs",
+    "Graph - Node/Link Prediction",
+    "Application - Biology & Medicine",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "xWrAAsdKoX": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "Application - Chemistry & Materials",
+    "Method - Active Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "N0nTk5BSvO": [
+    "CV - Recognition & Detection",
+    "CV - Video Understanding",
+    "Data - Datasets & Benchmarks"
+  ],
+  "idpV2AqusC": [
+    "Theory - Generalization",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine"
+  ],
+  "72MSbSZtHv": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Video Understanding",
+    "RL - Multi-Agent",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Method - Self-Supervised Learning"
+  ],
+  "Dxl0EuFjlf": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Video Understanding",
+    "RL - Policy Learning",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Social Sciences",
+    "Application - Climate & Environment",
+    "Application - Finance & Economics"
+  ],
+  "OsGUnYOzii": [
+    "CV - Recognition & Detection",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks"
+  ],
+  "H0RztJssmQ": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Exploration",
+    "RL - Meta-RL",
+    "Application - Biology & Medicine",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "wkbeqr5XhC": [
+    "NLP - LLMs & Foundation Models",
+    "CV - Recognition & Detection",
+    "Application - Biology & Medicine",
+    "Systems - Hardware"
+  ],
+  "tGEBnSQ0uE": [
+    "RL - Policy Learning",
+    "Theory - Optimization",
+    "Safety - Privacy",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "KXNLvfCxEr": [
+    "RL - Policy Learning",
+    "RL - Offline RL",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment"
+  ],
+  "MhzKwuvpm6": [
+    "RL - Policy Learning",
+    "Systems - Efficiency & Compression",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks"
+  ],
+  "EyDPfGy4Wh": [
+    "NLP - LLMs & Foundation Models",
+    "Systems - Hardware"
+  ],
+  "VRJzlm2ecv": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "Graph - Applications",
+    "Safety - Alignment & Safety",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Distributed Training",
+    "Data - Datasets & Benchmarks"
+  ],
+  "0SgPbbyrWh": [
+    "Theory - Generalization",
+    "Method - Active Learning",
+    "Systems - Efficiency & Compression",
+    "Data - Datasets & Benchmarks"
+  ],
+  "iKsu33WcmU": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Exploration",
+    "Application - Biology & Medicine"
+  ],
+  "9TJDsOEaBC": [
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Data - Datasets & Benchmarks",
+    "Data - Synthetic Data"
+  ],
+  "I7kpf3mZ4n": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "RL - Meta-RL",
+    "Safety - Alignment & Safety",
+    "Safety - Fairness",
+    "Application - Neuroscience",
+    "Data - Synthetic Data"
+  ],
+  "lnffMykYSj": [
+    "NLP - LLMs & Foundation Models",
+    "Theory - Generalization",
+    "Safety - Fairness",
+    "Data - Datasets & Benchmarks"
+  ],
+  "SQpnEfv9WH": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Video Understanding",
+    "CV - 3D Vision",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Application - Social Sciences",
+    "Data - Datasets & Benchmarks",
+    "Multi-Modal - Embodied AI"
+  ],
+  "JBLgjRRuHG": [
+    "NLP - Generation",
+    "CV - Image Generation",
+    "CV - Video Understanding",
+    "Generative - Diffusion Models",
+    "Application - Biology & Medicine",
+    "Multi-Modal - Vision-Language"
+  ],
+  "JuyFppXzh2": [
+    "CV - Image Generation",
+    "CV - Recognition & Detection",
+    "Generative - GANs",
+    "Application - Biology & Medicine",
+    "Method - Active Learning",
+    "Data - Datasets & Benchmarks"
+  ],
+  "wfgZc3IMqo": [
+    "CV - Recognition & Detection",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Data - Datasets & Benchmarks",
+    "Data - Data Quality"
+  ],
+  "0xLWPdObG1": [
+    "Safety - Fairness",
+    "Application - Neuroscience",
+    "Systems - Efficiency & Compression"
+  ],
+  "0xT87opqKV": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Understanding",
+    "CV - 3D Vision",
+    "RL - Meta-RL",
+    "Application - Biology & Medicine",
+    "Method - Multi-Task Learning"
+  ],
+  "RSQL6xvUYW": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Generation",
+    "NLP - Understanding",
+    "RL - Policy Learning",
+    "Application - Biology & Medicine",
+    "Data - Datasets & Benchmarks"
+  ],
+  "3SJE1WLB4M": [
+    "Theory - Optimization",
+    "Theory - Generalization",
+    "Application - Biology & Medicine",
+    "Application - Neuroscience",
+    "Systems - Distributed Training",
+    "Data - Data Quality"
+  ],
+  "OFF38XvszP": [
+    "NLP - Understanding",
+    "Application - Physics & Engineering",
+    "Application - Climate & Environment",
+    "Method - Self-Supervised Learning"
+  ],
+  "Ali45HfJqJ": [
+    "NLP - Prompting & In-Context Learning",
+    "Generative - GANs",
+    "Safety - Adversarial Robustness",
+    "Application - Biology & Medicine"
+  ],
+  "5elND8cf8r": [
+    "Application - Neuroscience",
+    "Method - Self-Supervised Learning"
+  ],
+  "cbVnJa4l2o": [
+    "NLP - LLMs & Foundation Models",
+    "NLP - Prompting & In-Context Learning",
+    "CV - Video Understanding",
+    "Application - Biology & Medicine",
+    "Application - Physics & Engineering",
+    "Multi-Modal - Embodied AI"
+  ],
+  "hpSEeLWkXX": [
+    "NLP - LLMs & Foundation Models",
+    "RL - Policy Learning",
+    "Interpretability - Concept Learning",
+    "Application - Neuroscience",
+    "Method - Continual Learning",
+    "Systems - Efficiency & Compression",
+    "Systems - Distributed Training"
+  ]
+}
