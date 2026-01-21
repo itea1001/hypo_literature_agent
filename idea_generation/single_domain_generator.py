@@ -155,12 +155,13 @@ class SingleDomainGenerator:
         Generate a prompt for LLM-based idea generation.
         
         This creates a structured prompt that can be sent to an LLM API.
+        Asks for abstract-level detail to ensure actionable ideas.
         """
         category = domain_context['category']
         keywords = [kw for kw, _ in domain_context['top_keywords'][:20]]
         papers = domain_context['paper_summaries']
         
-        prompt = f"""You are a research scientist generating novel research ideas in the domain of "{category}".
+        prompt = f"""You are a research scientist generating novel, specific research ideas in the domain of "{category}".
 
 Based on the following context from recent papers in this field, generate {num_ideas} novel research ideas.
 
@@ -182,24 +183,40 @@ Based on the following context from recent papers in this field, generate {num_i
 
 ## Task
 
-Generate {num_ideas} novel research ideas that:
-1. Build on the existing work in this field
-2. Address potential gaps or limitations
-3. Combine existing methods in new ways
-4. Are specific and actionable (not vague)
+Generate {num_ideas} novel research ideas. Each idea must be SPECIFIC and ACTIONABLE - detailed enough that a researcher could start working on it immediately. Think of this as writing the core of a paper abstract.
 
-For each idea, provide:
-- **Title**: A concise title for the research idea
-- **Description**: 2-3 sentences describing the core idea
-- **Motivation**: Why this is interesting/important
-- **Related papers**: Which of the above papers relate to this idea
+For each idea, you MUST provide ALL of the following:
+
+1. **Title**: A specific, descriptive title (not generic like "Improving X")
+
+2. **Problem Statement**: What specific gap, limitation, or open question does this address? Be concrete - name specific issues with existing methods.
+
+3. **Proposed Method**: Describe the technical approach in detail. What architecture/algorithm/technique will you use? How does it differ from existing approaches? (3-5 sentences)
+
+4. **Datasets & Benchmarks**: List 2-3 SPECIFIC, REAL datasets or benchmarks you would evaluate on. These must be actual existing datasets (e.g., "MMLU", "GSM8K", "ImageNet") or clearly defined new ones.
+
+5. **Baselines**: What specific existing methods would you compare against? Name 2-3 actual methods/papers.
+
+6. **Expected Results**: What specific claims would you make if successful? What metrics would improve and by roughly how much? Be concrete (e.g., "We expect 5-10% improvement on X metric")
+
+7. **Key Risks**: What could go wrong? What's the main technical challenge?
 
 Format each idea as:
 ---
 ### Idea [N]: [Title]
-**Description**: [description]
-**Motivation**: [motivation]  
-**Related papers**: [list paper numbers]
+
+**Problem Statement**: [specific gap being addressed]
+
+**Proposed Method**: [detailed technical approach]
+
+**Datasets & Benchmarks**: [specific real datasets]
+
+**Baselines**: [specific methods to compare against]
+
+**Expected Results**: [concrete claims with metrics]
+
+**Key Risks**: [main challenges]
+
 ---
 """
         return prompt
